@@ -1,0 +1,2511 @@
+[
+	{
+		"nid": [
+			{
+				"value": "144"
+			}
+		],
+		"uuid": [
+			{
+				"value": "015d94e1-1b71-40e0-b693-84d76663ad87"
+			}
+		],
+		"vid": [
+			{
+				"value": "481"
+			}
+		],
+		"langcode": [
+			{
+				"value": "en"
+			}
+		],
+		"type": [
+			{
+				"target_id": "dataset"
+			}
+		],
+		"revision_timestamp": [
+			{
+				"value": "1607911964"
+			}
+		],
+		"revision_uid": [
+			{
+				"target_id": "8"
+			}
+		],
+		"revision_log": [],
+		"status": [
+			{
+				"value": "1"
+			}
+		],
+		"title": [
+			{
+				"value": "Place Names dataset"
+			}
+		],
+		"uid": [
+			{
+				"target_id": "8"
+			}
+		],
+		"created": [
+			{
+				"value": "1579043164"
+			}
+		],
+		"changed": [
+			{
+				"value": "1607911964"
+			}
+		],
+		"promote": [
+			{
+				"value": "1"
+			}
+		],
+		"sticky": [
+			{
+				"value": "0"
+			}
+		],
+		"default_langcode": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_default": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_translation_affected": [
+			{
+				"value": "1"
+			}
+		],
+		"path": [
+			{
+				"pid": "163",
+				"source": "\/node\/144",
+				"alias": "\/resource\/144",
+				"langcode": "en"
+			}
+		],
+		"menu_link": [],
+		"body": [
+			{
+				"value": "<p>This is a request for a URI for the Place Names (National Composite Gazetteer of Australia) Dataset<\/p>\r\n",
+				"summary": "",
+				"format": "basic_html"
+			}
+		],
+		"field_agldwg_identifier": [
+			{
+				"value": "\/dataset\/placenames"
+			}
+		],
+		"field_contact_person": [
+			{
+				"target_id": "8"
+			}
+		],
+		"field_creator": [
+			{
+				"target_id": "14"
+			}
+		],
+		"field_dataset_review_uri": [
+			{
+				"uri": "http:\/\/fsdf.org.au\/dataset\/placenames\/",
+				"title": "",
+				"options": []
+			}
+		],
+		"field_date_accepted": [
+			{
+				"value": "2020-02-14"
+			}
+		],
+		"field_publisher": [
+			{
+				"target_id": "14"
+			}
+		],
+		"field_registry_status": [
+			{
+				"target_id": "1"
+			}
+		],
+		"field_reviewer": [
+			{
+				"target_id": "1"
+			}
+		],
+		"field_was_derived_from": []
+	},
+	{
+		"nid": [
+			{
+				"value": "159"
+			}
+		],
+		"uuid": [
+			{
+				"value": "a7f40d20-fde0-4dfd-9fb9-6a752edc7e0f"
+			}
+		],
+		"vid": [
+			{
+				"value": "451"
+			}
+		],
+		"langcode": [
+			{
+				"value": "en"
+			}
+		],
+		"type": [
+			{
+				"target_id": "dataset"
+			}
+		],
+		"revision_timestamp": [
+			{
+				"value": "1602114738"
+			}
+		],
+		"revision_uid": [
+			{
+				"target_id": "1"
+			}
+		],
+		"revision_log": [],
+		"status": [
+			{
+				"value": "1"
+			}
+		],
+		"title": [
+			{
+				"value": "AusPlots"
+			}
+		],
+		"uid": [
+			{
+				"target_id": "1"
+			}
+		],
+		"created": [
+			{
+				"value": "1602114535"
+			}
+		],
+		"changed": [
+			{
+				"value": "1602114738"
+			}
+		],
+		"promote": [
+			{
+				"value": "1"
+			}
+		],
+		"sticky": [
+			{
+				"value": "0"
+			}
+		],
+		"default_langcode": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_default": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_translation_affected": [
+			{
+				"value": "1"
+			}
+		],
+		"path": [
+			{
+				"pid": "178",
+				"source": "\/node\/159",
+				"alias": "\/resource\/159",
+				"langcode": "en"
+			}
+		],
+		"menu_link": [],
+		"body": [
+			{
+				"value": "<p>The AusPlots dataset, delivered by TERN as Linked Data<\/p>\r\n",
+				"summary": "",
+				"format": "basic_html"
+			}
+		],
+		"field_agldwg_identifier": [
+			{
+				"value": "\/dataset\/ausplots"
+			}
+		],
+		"field_contact_person": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_creator": [
+			{
+				"target_id": "18"
+			}
+		],
+		"field_dataset_review_uri": [],
+		"field_date_accepted": [],
+		"field_publisher": [
+			{
+				"target_id": "18"
+			}
+		],
+		"field_registry_status": [
+			{
+				"target_id": "11"
+			}
+		],
+		"field_reviewer": [
+			{
+				"target_id": "1"
+			}
+		],
+		"field_was_derived_from": []
+	},
+	{
+		"nid": [
+			{
+				"value": "145"
+			}
+		],
+		"uuid": [
+			{
+				"value": "e2d17498-5e35-42dc-ba86-e94c187c29c5"
+			}
+		],
+		"vid": [
+			{
+				"value": "432"
+			}
+		],
+		"langcode": [
+			{
+				"value": "en"
+			}
+		],
+		"type": [
+			{
+				"target_id": "dataset"
+			}
+		],
+		"revision_timestamp": [
+			{
+				"value": "1587619564"
+			}
+		],
+		"revision_uid": [
+			{
+				"target_id": "1"
+			}
+		],
+		"revision_log": [
+			{
+				"value": "qldgoefoi -> qldgeofeatures"
+			}
+		],
+		"status": [
+			{
+				"value": "1"
+			}
+		],
+		"title": [
+			{
+				"value": "Queensland Geological Features Dataset"
+			}
+		],
+		"uid": [
+			{
+				"target_id": "6"
+			}
+		],
+		"created": [
+			{
+				"value": "1580770808"
+			}
+		],
+		"changed": [
+			{
+				"value": "1587619564"
+			}
+		],
+		"promote": [
+			{
+				"value": "1"
+			}
+		],
+		"sticky": [
+			{
+				"value": "0"
+			}
+		],
+		"default_langcode": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_default": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_translation_affected": [
+			{
+				"value": "1"
+			}
+		],
+		"path": [
+			{
+				"pid": "164",
+				"source": "\/node\/145",
+				"alias": "\/resource\/145",
+				"langcode": "en"
+			}
+		],
+		"menu_link": [],
+		"body": [
+			{
+				"value": "<p>This <a href=\"https:\/\/en.wikipedia.org\/wiki\/RDF\">RDF<\/a> dataset contains some of the geological Features of Interest (GeoFoIs) of Queensland described and published by the <a href=\"https:\/\/en.wikipedia.org\/wiki\/Geological_Survey_of_Queensland\">Geological Survey of Queensland<\/a>.<\/p>\r\n\r\n<p>This dataset considers each GeoFoI to be a specialised form of the <a href=\"https:\/\/www.w3.org\/TR\/vocab-ssn\/#SOSAFeatureOfInterest\">SOSA Ontology's Feature of Interest<\/a>, which allows them to be associated with property obsesrvations.<\/p>\r\n\r\n<p>Each GeoFoI is also considered a specialised form of the <a href=\"https:\/\/en.wikipedia.org\/wiki\/OGC_GeoSPARQL\">GeoSPARQL ontology<\/a>'s `Feature` class meaning they can be associated with one or more `Geometry` objects too.<\/p>\r\n\r\n<p>The dataset as a whole is modelled as being a <a href=\"http:\/\/linked.data.gov.au\/def\/loci#Dataset\">LocI Dataset<\/a> which is a specialised form of both a [DCAT2 Dataset](https:\/\/www.w3.org\/TR\/vocab-dcat-2\/#Class:Dataset) and a <a href=\"http:\/\/rdfs.org\/ns\/void#Dataset\">VoID Dataset<\/a>. This means that the dataset is 1. compatible with the <a href=\"https:\/\/locationindex.org\">Location Index (LocI)<\/a> Project's notion of a dataset; 2. has standard catalogue metadata (due to DCAT); and 3. has some RDF\/graph properties of it described (due to VoID). This dataset can be used with other LocI datasets.<\/p>\r\n\r\n<p>Currently this API only delivers already public GSQ Structural Framework data, not all of GSQ's Features of Interest but it will grow to inculde more data over time.<\/p>\r\n\r\n<p>The dataset source code (for building it from non-RDF data) is at: https:\/\/github.com\/geological-survey-of-queensland\/qldgeofoi-dataset\/<\/p>\r\n",
+				"summary": "",
+				"format": "basic_html"
+			}
+		],
+		"field_agldwg_identifier": [
+			{
+				"value": "\/dataset\/qldgeofeatures"
+			}
+		],
+		"field_contact_person": [
+			{
+				"target_id": "6"
+			}
+		],
+		"field_creator": [
+			{
+				"target_id": "13"
+			}
+		],
+		"field_dataset_review_uri": [
+			{
+				"uri": "https:\/\/gsq.cat\/foi\/",
+				"title": "https:\/\/gsq.cat\/foi\/",
+				"options": []
+			}
+		],
+		"field_date_accepted": [
+			{
+				"value": "2020-02-26"
+			}
+		],
+		"field_publisher": [
+			{
+				"target_id": "13"
+			}
+		],
+		"field_registry_status": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_reviewer": [
+			{
+				"target_id": "30"
+			}
+		],
+		"field_was_derived_from": [
+			{
+				"uri": "https:\/\/github.com\/geological-survey-of-queensland\/qldgeofoi-dataset",
+				"title": "Underlying dataset for the FOI API",
+				"options": []
+			}
+		]
+	},
+	{
+		"nid": [
+			{
+				"value": "150"
+			}
+		],
+		"uuid": [
+			{
+				"value": "4e474280-d152-4c12-a497-db6d24fe2cc9"
+			}
+		],
+		"vid": [
+			{
+				"value": "430"
+			}
+		],
+		"langcode": [
+			{
+				"value": "en"
+			}
+		],
+		"type": [
+			{
+				"target_id": "dataset"
+			}
+		],
+		"revision_timestamp": [
+			{
+				"value": "1583297529"
+			}
+		],
+		"revision_uid": [
+			{
+				"target_id": "7"
+			}
+		],
+		"revision_log": [],
+		"status": [
+			{
+				"value": "1"
+			}
+		],
+		"title": [
+			{
+				"value": "Local Government Areas of Australia"
+			}
+		],
+		"uid": [
+			{
+				"target_id": "7"
+			}
+		],
+		"created": [
+			{
+				"value": "1583297529"
+			}
+		],
+		"changed": [
+			{
+				"value": "1583297529"
+			}
+		],
+		"promote": [
+			{
+				"value": "1"
+			}
+		],
+		"sticky": [
+			{
+				"value": "0"
+			}
+		],
+		"default_langcode": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_default": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_translation_affected": [
+			{
+				"value": "1"
+			}
+		],
+		"path": [
+			{
+				"pid": "169",
+				"source": "\/node\/150",
+				"alias": "\/resource\/150",
+				"langcode": "en"
+			}
+		],
+		"menu_link": [],
+		"body": [
+			{
+				"value": "<p>ABS 2011 Local Government Areas of Australia as an RDF dataset in GeoSPARQL.&nbsp;<\/p>\r\n",
+				"summary": "",
+				"format": "basic_html"
+			}
+		],
+		"field_agldwg_identifier": [
+			{
+				"value": "\/dataset\/local-gov-areas-2011"
+			}
+		],
+		"field_contact_person": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_creator": [
+			{
+				"target_id": "1"
+			}
+		],
+		"field_dataset_review_uri": [
+			{
+				"uri": "https:\/\/lodview.it\/lodview\/?IRI=http%3A%2F%2Flinked.data.gov.au%2Fdataset%2Flocal-gov-areas-2011%2F51470&sparql=https%3A%2F%2Fgraphdb-850.tern.org.au%2Frepositories%2Fabs-local-gov-areas-2011&prefix=http%3A%2F%2Flinked.data.gov.au%2F",
+				"title": "",
+				"options": []
+			}
+		],
+		"field_date_accepted": [],
+		"field_publisher": [
+			{
+				"target_id": "18"
+			}
+		],
+		"field_registry_status": [
+			{
+				"target_id": "11"
+			}
+		],
+		"field_reviewer": [
+			{
+				"target_id": "1"
+			}
+		],
+		"field_was_derived_from": [
+			{
+				"uri": "https:\/\/data.gov.au\/data\/dataset\/1d139f3a-fc76-4717-863c-3689413ee9c0",
+				"title": "",
+				"options": []
+			}
+		]
+	},
+	{
+		"nid": [
+			{
+				"value": "149"
+			}
+		],
+		"uuid": [
+			{
+				"value": "05d950ab-8b89-4620-bcfd-22efca58b6a0"
+			}
+		],
+		"vid": [
+			{
+				"value": "429"
+			}
+		],
+		"langcode": [
+			{
+				"value": "en"
+			}
+		],
+		"type": [
+			{
+				"target_id": "dataset"
+			}
+		],
+		"revision_timestamp": [
+			{
+				"value": "1583114399"
+			}
+		],
+		"revision_uid": [
+			{
+				"target_id": "7"
+			}
+		],
+		"revision_log": [],
+		"status": [
+			{
+				"value": "1"
+			}
+		],
+		"title": [
+			{
+				"value": "CAPAD 2018 - Terrestrial"
+			}
+		],
+		"uid": [
+			{
+				"target_id": "7"
+			}
+		],
+		"created": [
+			{
+				"value": "1583114399"
+			}
+		],
+		"changed": [
+			{
+				"value": "1583114399"
+			}
+		],
+		"promote": [
+			{
+				"value": "1"
+			}
+		],
+		"sticky": [
+			{
+				"value": "0"
+			}
+		],
+		"default_langcode": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_default": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_translation_affected": [
+			{
+				"value": "1"
+			}
+		],
+		"path": [
+			{
+				"pid": "168",
+				"source": "\/node\/149",
+				"alias": "\/resource\/149",
+				"langcode": "en"
+			}
+		],
+		"menu_link": [],
+		"body": [
+			{
+				"value": "<p>Collaborative Australian Protected Areas Dataset (CAPAD) 2018 - Terrestrial as an RDF dataset in GeoSPARQL.&nbsp;<\/p>\r\n",
+				"summary": "",
+				"format": "basic_html"
+			}
+		],
+		"field_agldwg_identifier": [
+			{
+				"value": "\/dataset\/capad-2018-terrestrial"
+			}
+		],
+		"field_contact_person": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_creator": [
+			{
+				"target_id": "8"
+			}
+		],
+		"field_dataset_review_uri": [
+			{
+				"uri": "https:\/\/lodview.it\/lodview\/?IRI=http%3A%2F%2Flinked.data.gov.au%2Fdataset%2Fcapad-2018-terrestrial%2FACT_01&sparql=https%3A%2F%2Fgraphdb-850.tern.org.au%2Frepositories%2Fcapad_2018_terrestrial&prefix=http%3A%2F%2Flinked.data.gov.au%2F",
+				"title": "",
+				"options": []
+			}
+		],
+		"field_date_accepted": [],
+		"field_publisher": [
+			{
+				"target_id": "18"
+			}
+		],
+		"field_registry_status": [
+			{
+				"target_id": "11"
+			}
+		],
+		"field_reviewer": [
+			{
+				"target_id": "1"
+			}
+		],
+		"field_was_derived_from": [
+			{
+				"uri": "https:\/\/environment.gov.au\/fed\/catalog\/search\/resource\/details.page?uuid=%7B4448CACD-9DA8-43D1-A48F-48149FD5FCFD%7D",
+				"title": "",
+				"options": []
+			}
+		]
+	},
+	{
+		"nid": [
+			{
+				"value": "148"
+			}
+		],
+		"uuid": [
+			{
+				"value": "1285b5be-4832-4c2f-a6f7-755cfa90b924"
+			}
+		],
+		"vid": [
+			{
+				"value": "428"
+			}
+		],
+		"langcode": [
+			{
+				"value": "en"
+			}
+		],
+		"type": [
+			{
+				"target_id": "dataset"
+			}
+		],
+		"revision_timestamp": [
+			{
+				"value": "1582783484"
+			}
+		],
+		"revision_uid": [
+			{
+				"target_id": "7"
+			}
+		],
+		"revision_log": [],
+		"status": [
+			{
+				"value": "1"
+			}
+		],
+		"title": [
+			{
+				"value": "WWF Terrestrial Ecoregions of the World"
+			}
+		],
+		"uid": [
+			{
+				"target_id": "7"
+			}
+		],
+		"created": [
+			{
+				"value": "1582783484"
+			}
+		],
+		"changed": [
+			{
+				"value": "1582783484"
+			}
+		],
+		"promote": [
+			{
+				"value": "1"
+			}
+		],
+		"sticky": [
+			{
+				"value": "0"
+			}
+		],
+		"default_langcode": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_default": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_translation_affected": [
+			{
+				"value": "1"
+			}
+		],
+		"path": [
+			{
+				"pid": "167",
+				"source": "\/node\/148",
+				"alias": "\/resource\/148",
+				"langcode": "en"
+			}
+		],
+		"menu_link": [],
+		"body": [
+			{
+				"value": "<p>The WWF Terrestrial Ecoregions of the World as an RDF dataset in GeoSPARQL.<\/p>\r\n",
+				"summary": "",
+				"format": "basic_html"
+			}
+		],
+		"field_agldwg_identifier": [
+			{
+				"value": "\/dataset\/wwf-terr-ecoregions"
+			}
+		],
+		"field_contact_person": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_creator": [
+			{
+				"target_id": "18"
+			}
+		],
+		"field_dataset_review_uri": [
+			{
+				"uri": "https:\/\/lodview.it\/lodview\/?IRI=http%3A%2F%2Flinked.data.gov.au%2Fdataset%2Fwwf-terr-ecoregions%2F14918&sparql=https%3A%2F%2Fgraphdb-850.tern.org.au%2Frepositories%2Fwwf_terr_ecoregions&prefix=http%3A%2F%2Flinked.data.gov.au%2F",
+				"title": "",
+				"options": []
+			}
+		],
+		"field_date_accepted": [],
+		"field_publisher": [
+			{
+				"target_id": "18"
+			}
+		],
+		"field_registry_status": [
+			{
+				"target_id": "11"
+			}
+		],
+		"field_reviewer": [
+			{
+				"target_id": "1"
+			}
+		],
+		"field_was_derived_from": [
+			{
+				"uri": "https:\/\/worldmap.harvard.edu\/data\/geonode:wwf_terr_ecos_oRn",
+				"title": "",
+				"options": []
+			}
+		]
+	},
+	{
+		"nid": [
+			{
+				"value": "147"
+			}
+		],
+		"uuid": [
+			{
+				"value": "84affd19-5b0e-4a72-a878-a51af1fa7429"
+			}
+		],
+		"vid": [
+			{
+				"value": "427"
+			}
+		],
+		"langcode": [
+			{
+				"value": "en"
+			}
+		],
+		"type": [
+			{
+				"target_id": "dataset"
+			}
+		],
+		"revision_timestamp": [
+			{
+				"value": "1582783316"
+			}
+		],
+		"revision_uid": [
+			{
+				"target_id": "7"
+			}
+		],
+		"revision_log": [],
+		"status": [
+			{
+				"value": "1"
+			}
+		],
+		"title": [
+			{
+				"value": "Natural Resource Management Regions 2017"
+			}
+		],
+		"uid": [
+			{
+				"target_id": "7"
+			}
+		],
+		"created": [
+			{
+				"value": "1582781627"
+			}
+		],
+		"changed": [
+			{
+				"value": "1582783316"
+			}
+		],
+		"promote": [
+			{
+				"value": "1"
+			}
+		],
+		"sticky": [
+			{
+				"value": "0"
+			}
+		],
+		"default_langcode": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_default": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_translation_affected": [
+			{
+				"value": "1"
+			}
+		],
+		"path": [
+			{
+				"pid": "166",
+				"source": "\/node\/147",
+				"alias": "\/resource\/147",
+				"langcode": "en"
+			}
+		],
+		"menu_link": [],
+		"body": [
+			{
+				"value": "<p>Natural Resource Management regions 2017 as an RDF spatial dataset in GeoSPARQL.<\/p>\r\n",
+				"summary": "",
+				"format": "basic_html"
+			}
+		],
+		"field_agldwg_identifier": [
+			{
+				"value": "\/dataset\/nrm-2017"
+			}
+		],
+		"field_contact_person": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_creator": [
+			{
+				"target_id": "8"
+			}
+		],
+		"field_dataset_review_uri": [
+			{
+				"uri": "https:\/\/lodview.it\/lodview\/?IRI=http%3A%2F%2Flinked.data.gov.au%2Fdataset%2Fnrm-2017%2F3110&sparql=https%3A%2F%2Fgraphdb-850.tern.org.au%2Frepositories%2Fnrm_regions_2017&prefix=http%3A%2F%2Flinked.data.gov.au%2F",
+				"title": "",
+				"options": []
+			}
+		],
+		"field_date_accepted": [],
+		"field_publisher": [
+			{
+				"target_id": "18"
+			}
+		],
+		"field_registry_status": [
+			{
+				"target_id": "11"
+			}
+		],
+		"field_reviewer": [
+			{
+				"target_id": "1"
+			}
+		],
+		"field_was_derived_from": [
+			{
+				"uri": "https:\/\/www.environment.gov.au\/fed\/catalog\/search\/resource\/details.page?uuid=%7BAB80DA43-CB00-455D-8A3C-70162EB8D964%7D",
+				"title": "",
+				"options": []
+			}
+		]
+	},
+	{
+		"nid": [
+			{
+				"value": "143"
+			}
+		],
+		"uuid": [
+			{
+				"value": "84a63368-0522-4ae8-9672-423dcbba56df"
+			}
+		],
+		"vid": [
+			{
+				"value": "404"
+			}
+		],
+		"langcode": [
+			{
+				"value": "en"
+			}
+		],
+		"type": [
+			{
+				"target_id": "dataset"
+			}
+		],
+		"revision_timestamp": [
+			{
+				"value": "1576559961"
+			}
+		],
+		"revision_uid": [
+			{
+				"target_id": "30"
+			}
+		],
+		"revision_log": [],
+		"status": [
+			{
+				"value": "1"
+			}
+		],
+		"title": [
+			{
+				"value": "Loc-I Geometry Data Service"
+			}
+		],
+		"uid": [
+			{
+				"target_id": "30"
+			}
+		],
+		"created": [
+			{
+				"value": "1576559961"
+			}
+		],
+		"changed": [
+			{
+				"value": "1576559961"
+			}
+		],
+		"promote": [
+			{
+				"value": "1"
+			}
+		],
+		"sticky": [
+			{
+				"value": "0"
+			}
+		],
+		"default_langcode": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_default": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_translation_affected": [
+			{
+				"value": "1"
+			}
+		],
+		"path": [
+			{
+				"pid": "162",
+				"source": "\/node\/143",
+				"alias": "\/resource\/143",
+				"langcode": "en"
+			}
+		],
+		"menu_link": [],
+		"body": [
+			{
+				"value": "<p>A Loc-I&nbsp;<strong>Geometry Data Service<\/strong> Linked Data API for delivering geometry views for the Loc-I project (http:\/\/loci.cat).<\/p>\r\n\r\n<p>This LD API implements this interface:&nbsp;<a href=\"https:\/\/github.com\/CSIRO-enviro-informatics\/geometry-data-service\">https:\/\/github.com\/CSIRO-enviro-informatics\/geometry-data-service<\/a><\/p>\r\n\r\n<p>The Loc-I Geometry Data Service aims to serve ASGS and Geofabric geometries with the view to include other authoritative datasets relevant for the Loc-I project in the future.<\/p>\r\n",
+				"summary": "",
+				"format": "basic_html"
+			}
+		],
+		"field_agldwg_identifier": [
+			{
+				"value": "\/dataset\/loci-geometry\/"
+			}
+		],
+		"field_contact_person": [
+			{
+				"target_id": "30"
+			}
+		],
+		"field_creator": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_dataset_review_uri": [
+			{
+				"uri": "http:\/\/gds.loci.cat\/",
+				"title": "Geometry Data Service",
+				"options": []
+			}
+		],
+		"field_date_accepted": [],
+		"field_publisher": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_registry_status": [
+			{
+				"target_id": "11"
+			}
+		],
+		"field_reviewer": [
+			{
+				"target_id": "1"
+			}
+		],
+		"field_was_derived_from": []
+	},
+	{
+		"nid": [
+			{
+				"value": "128"
+			}
+		],
+		"uuid": [
+			{
+				"value": "689fb501-3055-4944-83c6-fe11d8959f8c"
+			}
+		],
+		"vid": [
+			{
+				"value": "347"
+			}
+		],
+		"langcode": [
+			{
+				"value": "en"
+			}
+		],
+		"type": [
+			{
+				"target_id": "dataset"
+			}
+		],
+		"revision_timestamp": [
+			{
+				"value": "1571657042"
+			}
+		],
+		"revision_uid": [
+			{
+				"target_id": "13"
+			}
+		],
+		"revision_log": [],
+		"status": [
+			{
+				"value": "1"
+			}
+		],
+		"title": [
+			{
+				"value": "GSQ Datasets"
+			}
+		],
+		"uid": [
+			{
+				"target_id": "6"
+			}
+		],
+		"created": [
+			{
+				"value": "1570591995"
+			}
+		],
+		"changed": [
+			{
+				"value": "1571657042"
+			}
+		],
+		"promote": [
+			{
+				"value": "1"
+			}
+		],
+		"sticky": [
+			{
+				"value": "0"
+			}
+		],
+		"default_langcode": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_default": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_translation_affected": [
+			{
+				"value": "1"
+			}
+		],
+		"path": [
+			{
+				"pid": "139",
+				"source": "\/node\/128",
+				"alias": "\/resource\/128",
+				"langcode": "en"
+			}
+		],
+		"menu_link": [],
+		"body": [
+			{
+				"value": "<p>The Geological Survey of Qld's Datasets Register. The catalogue of datasets is online at https:\/\/horizon.gsq.digital\/ with individual Datasets having URIs like this:<\/p>\r\n\r\n<ul>\r\n\t<li>https:\/\/horizon.gsq.digital\/dataset\/norm576<\/li>\r\n\t<li>https:\/\/horizon.gsq.digital\/dataset\/whole-of-queensland-geochemistry-databases<\/li>\r\n\t<li>https:\/\/horizon.gsq.digital\/seismic\/cpsan16-snowball-3d-2016-seismic-survey<\/li>\r\n<\/ul>\r\n\r\n<p><br \/>\r\nGSQ will retain the \/CLASS\/ID part of the catalogue's URIs for use with this PID URI to make URIs like these for the items above:<\/p>\r\n\r\n<ul>\r\n\t<li>http:\/\/linked.data.gov.au\/dataset\/gsq\/dataset\/norm576<\/li>\r\n\t<li>http:\/\/linked.data.gov.au\/dataset\/gsq\/dataset\/whole-of-queensland-geochemistry-databases<\/li>\r\n\t<li>http:\/\/linked.data.gov.au\/dataset\/gsq\/seismic\/cpsan16-snowball-3d-2016-seismic-survey<\/li>\r\n<\/ul>\r\n\r\n<p><br \/>\r\nSo the URIs \/dataset\/gsq\/ and \/dataset\/gsq\/xxx will be used but perhaps not \/dataset\/gsq itself. This latter URI might be redirected to the catalogue landing page.<\/p>\r\n",
+				"summary": "",
+				"format": "basic_html"
+			}
+		],
+		"field_agldwg_identifier": [
+			{
+				"value": "\/dataset\/gsq"
+			}
+		],
+		"field_contact_person": [
+			{
+				"target_id": "19"
+			}
+		],
+		"field_creator": [
+			{
+				"target_id": "13"
+			}
+		],
+		"field_dataset_review_uri": [],
+		"field_date_accepted": [
+			{
+				"value": "2019-10-21"
+			}
+		],
+		"field_publisher": [
+			{
+				"target_id": "13"
+			}
+		],
+		"field_registry_status": [
+			{
+				"target_id": "1"
+			}
+		],
+		"field_reviewer": [
+			{
+				"target_id": "13"
+			}
+		],
+		"field_was_derived_from": [
+			{
+				"uri": "https:\/\/horizon.gsq.digital",
+				"title": "Geological Survey of Qld's dataset catalogue",
+				"options": []
+			}
+		]
+	},
+	{
+		"nid": [
+			{
+				"value": "119"
+			}
+		],
+		"uuid": [
+			{
+				"value": "1d1632ad-30cd-4eaa-aea5-52c9bc8d541e"
+			}
+		],
+		"vid": [
+			{
+				"value": "337"
+			}
+		],
+		"langcode": [
+			{
+				"value": "en"
+			}
+		],
+		"type": [
+			{
+				"target_id": "dataset"
+			}
+		],
+		"revision_timestamp": [
+			{
+				"value": "1571113891"
+			}
+		],
+		"revision_uid": [
+			{
+				"target_id": "6"
+			}
+		],
+		"revision_log": [
+			{
+				"value": "Moving to 'valid' as the request's valid but not yet ready for implementation."
+			}
+		],
+		"status": [
+			{
+				"value": "1"
+			}
+		],
+		"title": [
+			{
+				"value": "CORVEG Dataset"
+			}
+		],
+		"uid": [
+			{
+				"target_id": "7"
+			}
+		],
+		"created": [
+			{
+				"value": "1563249923"
+			}
+		],
+		"changed": [
+			{
+				"value": "1571113891"
+			}
+		],
+		"promote": [
+			{
+				"value": "1"
+			}
+		],
+		"sticky": [
+			{
+				"value": "0"
+			}
+		],
+		"default_langcode": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_default": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_translation_affected": [
+			{
+				"value": "1"
+			}
+		],
+		"path": [
+			{
+				"pid": "130",
+				"source": "\/node\/119",
+				"alias": "\/resource\/119",
+				"langcode": "en"
+			}
+		],
+		"menu_link": [],
+		"body": [
+			{
+				"value": "<p>A Linked Data API of the CORVEG database by the Queensland Government Department of Environment and Science, in partnership with TERN.<\/p>\r\n\r\n<p>Redirect should match http:\/\/linked.data.gov.au\/dataset\/corveg\/* and redirect to the viewer at&nbsp;http:\/\/linkeddata.tern.org.au\/viewer\/corveg\/id\/*.<\/p>\r\n\r\n<p>Result of an instance of a site:&nbsp;<a href=\"http:\/\/linkeddata.tern.org.au\/viewer\/corveg\/id\/http:\/\/linked.data.gov.au\/dataset\/corveg\/site\/site-12309\">http:\/\/linkeddata.tern.org.au\/viewer\/corveg\/id\/http:\/\/linked.data.gov.au\/dataset\/corveg\/site\/site-12309<\/a><\/p>\r\n\r\n<p>A register of the sites:&nbsp;<a href=\"http:\/\/linkeddata.tern.org.au\/viewer\/corveg\/site\/\">http:\/\/linkeddata.tern.org.au\/viewer\/corveg\/site\/<\/a><\/p>\r\n\r\n<p>Currently only the CORVEG dataset's sites are being redistributed as Linked Data.<\/p>\r\n",
+				"summary": "",
+				"format": "basic_html"
+			}
+		],
+		"field_agldwg_identifier": [
+			{
+				"value": "\/dataset\/corveg"
+			}
+		],
+		"field_contact_person": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_creator": [
+			{
+				"target_id": "18"
+			}
+		],
+		"field_dataset_review_uri": [
+			{
+				"uri": "http:\/\/linkeddata.tern.org.au\/viewer\/corveg",
+				"title": "http:\/\/linkeddata.tern.org.au\/viewer\/corveg",
+				"options": []
+			}
+		],
+		"field_date_accepted": [
+			{
+				"value": "2019-10-15"
+			}
+		],
+		"field_publisher": [
+			{
+				"target_id": "68"
+			}
+		],
+		"field_registry_status": [
+			{
+				"target_id": "5"
+			}
+		],
+		"field_reviewer": [
+			{
+				"target_id": "1"
+			}
+		],
+		"field_was_derived_from": []
+	},
+	{
+		"nid": [
+			{
+				"value": "36"
+			}
+		],
+		"uuid": [
+			{
+				"value": "2465b4c4-04ac-4d56-a71d-34990b2cab25"
+			}
+		],
+		"vid": [
+			{
+				"value": "295"
+			}
+		],
+		"langcode": [
+			{
+				"value": "en"
+			}
+		],
+		"type": [
+			{
+				"target_id": "dataset"
+			}
+		],
+		"revision_timestamp": [
+			{
+				"value": "1566561044"
+			}
+		],
+		"revision_uid": [
+			{
+				"target_id": "1"
+			}
+		],
+		"revision_log": [],
+		"status": [
+			{
+				"value": "1"
+			}
+		],
+		"title": [
+			{
+				"value": "NEAR Catalogue"
+			}
+		],
+		"uid": [
+			{
+				"target_id": "1"
+			}
+		],
+		"created": [
+			{
+				"value": "1555306705"
+			}
+		],
+		"changed": [
+			{
+				"value": "1566561044"
+			}
+		],
+		"promote": [
+			{
+				"value": "1"
+			}
+		],
+		"sticky": [
+			{
+				"value": "0"
+			}
+		],
+		"default_langcode": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_default": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_translation_affected": [
+			{
+				"value": "1"
+			}
+		],
+		"path": [
+			{
+				"pid": "48",
+				"source": "\/node\/36",
+				"alias": "\/resource\/36",
+				"langcode": "en"
+			}
+		],
+		"menu_link": [],
+		"body": [
+			{
+				"value": "<p>Record for energy domain datasets that are catalogued as part of the NEAR (formally EUDM project).<\/p>\r\n\r\n<p>See https:\/\/near.csiro.au\/ for the catalogue of NEAR datasets and https:\/\/www.csiro.au\/en\/Research\/EF\/Areas\/Electricity-grids-and-systems\/Economic-modelling\/Energy-Use-Data-Model for a general description of the program that produced it.<\/p>\r\n\r\n<p>Project sponsored by Department of the Environment and Energy.<\/p>\r\n",
+				"summary": "",
+				"format": "basic_html"
+			}
+		],
+		"field_agldwg_identifier": [
+			{
+				"value": "\/dataset\/energy"
+			}
+		],
+		"field_contact_person": [
+			{
+				"target_id": "16"
+			}
+		],
+		"field_creator": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_dataset_review_uri": [],
+		"field_date_accepted": [
+			{
+				"value": "2019-02-18"
+			}
+		],
+		"field_publisher": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_registry_status": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_reviewer": [
+			{
+				"target_id": "13"
+			}
+		],
+		"field_was_derived_from": []
+	},
+	{
+		"nid": [
+			{
+				"value": "34"
+			}
+		],
+		"uuid": [
+			{
+				"value": "4c2fc038-80b4-4270-86c8-45035d22faae"
+			}
+		],
+		"vid": [
+			{
+				"value": "286"
+			}
+		],
+		"langcode": [
+			{
+				"value": "en"
+			}
+		],
+		"type": [
+			{
+				"target_id": "dataset"
+			}
+		],
+		"revision_timestamp": [
+			{
+				"value": "1566555871"
+			}
+		],
+		"revision_uid": [
+			{
+				"target_id": "1"
+			}
+		],
+		"revision_log": [],
+		"status": [
+			{
+				"value": "1"
+			}
+		],
+		"title": [
+			{
+				"value": "GNAF 2016 May Dataset"
+			}
+		],
+		"uid": [
+			{
+				"target_id": "1"
+			}
+		],
+		"created": [
+			{
+				"value": "1555306441"
+			}
+		],
+		"changed": [
+			{
+				"value": "1566555871"
+			}
+		],
+		"promote": [
+			{
+				"value": "1"
+			}
+		],
+		"sticky": [
+			{
+				"value": "0"
+			}
+		],
+		"default_langcode": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_default": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_translation_affected": [
+			{
+				"value": "1"
+			}
+		],
+		"path": [
+			{
+				"pid": "46",
+				"source": "\/node\/34",
+				"alias": "\/resource\/34",
+				"langcode": "en"
+			}
+		],
+		"menu_link": [],
+		"body": [
+			{
+				"value": "<p>An API delivering G-NAF data, as per <a href=\"http:\/\/linked.data.gov.au\/dataset\/gnaf\">http:\/\/linked.data.gov.au\/dataset\/gnaf<\/a>, but locked to the G-NAf data release as of May, 2016. This is to ensure there's a static version of the G-NAF current as of Census Day, 2016.<\/p>\r\n",
+				"summary": "",
+				"format": "basic_html"
+			}
+		],
+		"field_agldwg_identifier": [
+			{
+				"value": "\/dataset\/gnaf-2016-05"
+			}
+		],
+		"field_contact_person": [
+			{
+				"target_id": "17"
+			}
+		],
+		"field_creator": [
+			{
+				"target_id": "17"
+			}
+		],
+		"field_dataset_review_uri": [
+			{
+				"uri": "http:\/\/gnafld.net\/2016-05",
+				"title": "",
+				"options": []
+			}
+		],
+		"field_date_accepted": [
+			{
+				"value": "2018-11-30"
+			}
+		],
+		"field_publisher": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_registry_status": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_reviewer": [
+			{
+				"target_id": "13"
+			}
+		],
+		"field_was_derived_from": []
+	},
+	{
+		"nid": [
+			{
+				"value": "30"
+			}
+		],
+		"uuid": [
+			{
+				"value": "8e9789ea-6a32-4dcb-91aa-34ebe99187d0"
+			}
+		],
+		"vid": [
+			{
+				"value": "285"
+			}
+		],
+		"langcode": [
+			{
+				"value": "en"
+			}
+		],
+		"type": [
+			{
+				"target_id": "dataset"
+			}
+		],
+		"revision_timestamp": [
+			{
+				"value": "1566555843"
+			}
+		],
+		"revision_uid": [
+			{
+				"target_id": "1"
+			}
+		],
+		"revision_log": [],
+		"status": [
+			{
+				"value": "1"
+			}
+		],
+		"title": [
+			{
+				"value": "GNAF Current Dataset"
+			}
+		],
+		"uid": [
+			{
+				"target_id": "1"
+			}
+		],
+		"created": [
+			{
+				"value": "1555305469"
+			}
+		],
+		"changed": [
+			{
+				"value": "1566555843"
+			}
+		],
+		"promote": [
+			{
+				"value": "1"
+			}
+		],
+		"sticky": [
+			{
+				"value": "0"
+			}
+		],
+		"default_langcode": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_default": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_translation_affected": [
+			{
+				"value": "1"
+			}
+		],
+		"path": [
+			{
+				"pid": "42",
+				"source": "\/node\/30",
+				"alias": "\/resource\/30",
+				"langcode": "en"
+			}
+		],
+		"menu_link": [],
+		"body": [
+			{
+				"value": "<p>A Linked Data API delivering data from the G-NAF, the Geocoded National Address File.<\/p>\r\n\r\n<p>This resource is presented as a single dataset, thus a single, dataset PID is requested.<\/p>\r\n",
+				"summary": "",
+				"format": "basic_html"
+			}
+		],
+		"field_agldwg_identifier": [
+			{
+				"value": "\/dataset\/gnaf"
+			}
+		],
+		"field_contact_person": [
+			{
+				"target_id": "17"
+			}
+		],
+		"field_creator": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_dataset_review_uri": [
+			{
+				"uri": "http:\/\/gnafld.net",
+				"title": "",
+				"options": []
+			}
+		],
+		"field_date_accepted": [
+			{
+				"value": "2018-08-16"
+			}
+		],
+		"field_publisher": [
+			{
+				"target_id": "17"
+			}
+		],
+		"field_registry_status": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_reviewer": [
+			{
+				"target_id": "13"
+			}
+		],
+		"field_was_derived_from": [
+			{
+				"uri": "https:\/\/data.gov.au\/data\/dataset\/19432f89-dc3a-4ef3-b943-5326ef1dbecc",
+				"title": "The GNAF in data.gov.au",
+				"options": []
+			}
+		]
+	},
+	{
+		"nid": [
+			{
+				"value": "31"
+			}
+		],
+		"uuid": [
+			{
+				"value": "25b3f069-7563-46fe-8a97-28593755408c"
+			}
+		],
+		"vid": [
+			{
+				"value": "272"
+			}
+		],
+		"langcode": [
+			{
+				"value": "en"
+			}
+		],
+		"type": [
+			{
+				"target_id": "dataset"
+			}
+		],
+		"revision_timestamp": [
+			{
+				"value": "1566550800"
+			}
+		],
+		"revision_uid": [
+			{
+				"target_id": "1"
+			}
+		],
+		"revision_log": [],
+		"status": [
+			{
+				"value": "1"
+			}
+		],
+		"title": [
+			{
+				"value": "Geofabric Dataset"
+			}
+		],
+		"uid": [
+			{
+				"target_id": "1"
+			}
+		],
+		"created": [
+			{
+				"value": "1555306170"
+			}
+		],
+		"changed": [
+			{
+				"value": "1566550800"
+			}
+		],
+		"promote": [
+			{
+				"value": "1"
+			}
+		],
+		"sticky": [
+			{
+				"value": "0"
+			}
+		],
+		"default_langcode": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_default": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_translation_affected": [
+			{
+				"value": "1"
+			}
+		],
+		"path": [
+			{
+				"pid": "43",
+				"source": "\/node\/31",
+				"alias": "\/resource\/31",
+				"langcode": "en"
+			}
+		],
+		"menu_link": [],
+		"body": [
+			{
+				"value": "<p>The Australian Hydrological Geospatial Fabric (Geofabric) is a specialised Geographic Information System (GIS). It registers the spatial relationships between important hydrological features such as rivers, water bodies, aquifers and monitoring points. This is the Linked Data version of the Geofabric<\/p>\r\n",
+				"summary": "",
+				"format": "basic_html"
+			}
+		],
+		"field_agldwg_identifier": [
+			{
+				"value": "\/dataset\/geofabric"
+			}
+		],
+		"field_contact_person": [
+			{
+				"target_id": "17"
+			}
+		],
+		"field_creator": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_dataset_review_uri": [
+			{
+				"uri": "https:\/\/geofabricld.net",
+				"title": "",
+				"options": []
+			}
+		],
+		"field_date_accepted": [
+			{
+				"value": "2018-10-25"
+			}
+		],
+		"field_publisher": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_registry_status": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_reviewer": [
+			{
+				"target_id": "13"
+			}
+		],
+		"field_was_derived_from": [
+			{
+				"uri": "http:\/\/www.bom.gov.au\/water\/geofabric\/index.shtml",
+				"title": "",
+				"options": []
+			}
+		]
+	},
+	{
+		"nid": [
+			{
+				"value": "33"
+			}
+		],
+		"uuid": [
+			{
+				"value": "e7d21998-8397-4123-bd6a-ffdbcf311c92"
+			}
+		],
+		"vid": [
+			{
+				"value": "269"
+			}
+		],
+		"langcode": [
+			{
+				"value": "en"
+			}
+		],
+		"type": [
+			{
+				"target_id": "dataset"
+			}
+		],
+		"revision_timestamp": [
+			{
+				"value": "1566550787"
+			}
+		],
+		"revision_uid": [
+			{
+				"target_id": "1"
+			}
+		],
+		"revision_log": [],
+		"status": [
+			{
+				"value": "1"
+			}
+		],
+		"title": [
+			{
+				"value": "ASGS 2016 Dataset"
+			}
+		],
+		"uid": [
+			{
+				"target_id": "1"
+			}
+		],
+		"created": [
+			{
+				"value": "1555306346"
+			}
+		],
+		"changed": [
+			{
+				"value": "1566550787"
+			}
+		],
+		"promote": [
+			{
+				"value": "1"
+			}
+		],
+		"sticky": [
+			{
+				"value": "0"
+			}
+		],
+		"default_langcode": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_default": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_translation_affected": [
+			{
+				"value": "1"
+			}
+		],
+		"path": [
+			{
+				"pid": "45",
+				"source": "\/node\/33",
+				"alias": "\/resource\/33",
+				"langcode": "en"
+			}
+		],
+		"menu_link": [],
+		"body": [
+			{
+				"value": "<p>A Linked Data API, initially delivering data from the Australian Statistical Geography Standard (ASGS) 2016 <a href=\"http:\/\/www.abs.gov.au\/AUSSTATS\/abs@.nsf\/Lookup\/1270.0.55.001Main+Features10018July%202016?OpenDocument\">main structure&nbsp;dataset<\/a>.<\/p>\r\n\r\n<p>This resource is presented as a single dataset, thus a single, dataset PID is requested.<\/p>\r\n",
+				"summary": "",
+				"format": "basic_html"
+			}
+		],
+		"field_agldwg_identifier": [
+			{
+				"value": "\/dataset\/asgs2016"
+			}
+		],
+		"field_contact_person": [
+			{
+				"target_id": "17"
+			}
+		],
+		"field_creator": [
+			{
+				"target_id": "1"
+			}
+		],
+		"field_dataset_review_uri": [],
+		"field_date_accepted": [
+			{
+				"value": "2018-11-27"
+			}
+		],
+		"field_publisher": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_registry_status": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_reviewer": [
+			{
+				"target_id": "12"
+			}
+		],
+		"field_was_derived_from": [
+			{
+				"uri": "http:\/\/www.abs.gov.au\/AUSSTATS\/abs@.nsf\/Latestproducts\/1470.0Main%20Features22015?opendocument=&tabname=Summary&prodno=1470.0&issue=2015&num=&view=",
+				"title": "ABS Geospatial Web Services (including 2016 main structure web services)",
+				"options": []
+			}
+		]
+	},
+	{
+		"nid": [
+			{
+				"value": "35"
+			}
+		],
+		"uuid": [
+			{
+				"value": "67ad7f44-c860-440c-85c2-f135a190bde8"
+			}
+		],
+		"vid": [
+			{
+				"value": "268"
+			}
+		],
+		"langcode": [
+			{
+				"value": "en"
+			}
+		],
+		"type": [
+			{
+				"target_id": "dataset"
+			}
+		],
+		"revision_timestamp": [
+			{
+				"value": "1566550751"
+			}
+		],
+		"revision_uid": [
+			{
+				"target_id": "1"
+			}
+		],
+		"revision_log": [],
+		"status": [
+			{
+				"value": "1"
+			}
+		],
+		"title": [
+			{
+				"value": "ASGS 2011 Dataset"
+			}
+		],
+		"uid": [
+			{
+				"target_id": "1"
+			}
+		],
+		"created": [
+			{
+				"value": "1555306533"
+			}
+		],
+		"changed": [
+			{
+				"value": "1566550751"
+			}
+		],
+		"promote": [
+			{
+				"value": "1"
+			}
+		],
+		"sticky": [
+			{
+				"value": "0"
+			}
+		],
+		"default_langcode": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_default": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_translation_affected": [
+			{
+				"value": "1"
+			}
+		],
+		"path": [
+			{
+				"pid": "47",
+				"source": "\/node\/35",
+				"alias": "\/resource\/35",
+				"langcode": "en"
+			}
+		],
+		"menu_link": [],
+		"body": [
+			{
+				"value": "<p>A Linked Data API, initially delivering data from the Australian Statistical Geography Standard (ASGS) <a href=\"http:\/\/www.abs.gov.au\/AUSSTATS\/abs@.nsf\/Lookup\/1270.0.55.001Main+Features10018July%202016?OpenDocument\">main structure dataset<\/a>.<\/p>\r\n\r\n<p>This resource is presented as a single dataset, thus a single, dataset PID is requested.<\/p>\r\n",
+				"summary": "",
+				"format": "basic_html"
+			}
+		],
+		"field_agldwg_identifier": [
+			{
+				"value": "\/dataset\/asgs2011"
+			}
+		],
+		"field_contact_person": [
+			{
+				"target_id": "17"
+			}
+		],
+		"field_creator": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_dataset_review_uri": [
+			{
+				"uri": "https:\/\/asgsld.net\/2011\/",
+				"title": "",
+				"options": []
+			}
+		],
+		"field_date_accepted": [
+			{
+				"value": "2019-01-15"
+			}
+		],
+		"field_publisher": [
+			{
+				"target_id": "1"
+			}
+		],
+		"field_registry_status": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_reviewer": [
+			{
+				"target_id": "1"
+			}
+		],
+		"field_was_derived_from": []
+	},
+	{
+		"nid": [
+			{
+				"value": "32"
+			}
+		],
+		"uuid": [
+			{
+				"value": "662c8b7b-2b22-4445-beeb-89a38d0f3c34"
+			}
+		],
+		"vid": [
+			{
+				"value": "36"
+			}
+		],
+		"langcode": [
+			{
+				"value": "en"
+			}
+		],
+		"type": [
+			{
+				"target_id": "dataset"
+			}
+		],
+		"revision_timestamp": [
+			{
+				"value": "1555306336"
+			}
+		],
+		"revision_uid": [
+			{
+				"target_id": "1"
+			}
+		],
+		"revision_log": [],
+		"status": [
+			{
+				"value": "1"
+			}
+		],
+		"title": [
+			{
+				"value": "Data Policies Dataset"
+			}
+		],
+		"uid": [
+			{
+				"target_id": "1"
+			}
+		],
+		"created": [
+			{
+				"value": "1555306253"
+			}
+		],
+		"changed": [
+			{
+				"value": "1555306336"
+			}
+		],
+		"promote": [
+			{
+				"value": "1"
+			}
+		],
+		"sticky": [
+			{
+				"value": "0"
+			}
+		],
+		"default_langcode": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_default": [
+			{
+				"value": "1"
+			}
+		],
+		"revision_translation_affected": [
+			{
+				"value": "1"
+			}
+		],
+		"path": [
+			{
+				"pid": "44",
+				"source": "\/node\/32",
+				"alias": "\/resource\/32",
+				"langcode": "en"
+			}
+		],
+		"menu_link": [],
+		"body": [
+			{
+				"value": "<p>This is a dataset of ODRL2, Creative Commons and ODRS Policies, which includes Licences, that is maintained by CSIRO for use by anyone. It is possible to grant write-access (create new Policies) to a range of Linked Data WG and other members.<\/p>\r\n\r\n<p>After the allocation of this URI, we will be requesting subsequent URIs for Top-Level registers for thins in the dataset, likely \/licence\/ &amp; \/datapolicy\/.<\/p>\r\n",
+				"summary": "",
+				"format": "basic_html"
+			}
+		],
+		"field_agldwg_identifier": [
+			{
+				"value": "\/dataset\/data-policies"
+			}
+		],
+		"field_contact_person": [],
+		"field_creator": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_dataset_review_uri": [
+			{
+				"uri": "https:\/\/licences.csiro.au",
+				"title": "",
+				"options": []
+			}
+		],
+		"field_date_accepted": [
+			{
+				"value": "2018-10-23"
+			}
+		],
+		"field_publisher": [
+			{
+				"target_id": "7"
+			}
+		],
+		"field_registry_status": [
+			{
+				"target_id": "1"
+			}
+		],
+		"field_reviewer": [
+			{
+				"target_id": "13"
+			}
+		],
+		"field_was_derived_from": []
+	}
+]

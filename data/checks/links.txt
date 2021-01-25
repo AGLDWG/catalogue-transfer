@@ -1,0 +1,12 @@
+Ontologies: 
+    https://catalogue.linked.data.gov.au/admin/bulk-export?destination=/admin/content%3Ftitle%3D%26type%3Dontology%26status%3DAll%26langcode%3DAll
+
+Linksets:
+    https://catalogue.linked.data.gov.au/admin/bulk-export?destination=/admin/content%3Ftitle%3D%26type%3Dlinkset%26status%3DAll%26langcode%3DAll
+
+Orgs:
+    https://catalogue.linked.data.gov.au/admin/bulk-export?destination=/admin/content%3Ftitle%3D%26type%3Dorganisation%26status%3DAll%26langcode%3DAll
+
+
+Vocs:
+    https://catalogue.linked.data.gov.au/admin/bulk-export?destination=/admin/content%3Ftitle%3D%26type%3Dvocabulary%26status%3DAll%26langcode%3DAll%26page%3D1

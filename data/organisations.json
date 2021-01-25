@@ -1,0 +1,3799 @@
+[
+    {
+        "nid": [
+            {
+                "value": "141"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "8d31e7e6-9dbe-44dd-9542-ca2a33ed7332"
+            }
+        ],
+        "vid": [
+            {
+                "value": "486"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1608107237"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Open Geospatial Consortium"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1574733647"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1608107237"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "pid": "200",
+                "source": "\/node\/141",
+                "alias": "\/org\/ogc",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>The Open Geospatial Consortium (OGC) is an international consortium of more than 530 businesses, government agencies, research organizations, and universities driven to make geospatial (location) information and services FAIR - Findable, Accessible, Interoperable, and Reusable.&nbsp;<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/ogc"
+            }
+        ],
+        "field_agor_identifier": [],
+        "field_alternative_names": [
+            {
+                "value": "OGC"
+            }
+        ],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "https:\/\/www.opengeospatial.org",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [
+            {
+                "uri": "https:\/\/ror.org\/00fsdxs93",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "180"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "b62ed635-52a1-4698-abf7-d3cc1ce8a755"
+            }
+        ],
+        "vid": [
+            {
+                "value": "485"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1608107194"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "CGI Geoscience Terminology Working Group"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1608107095"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1608107194"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "pid": "199",
+                "source": "\/node\/180",
+                "alias": "\/org\/cgi-gtwg",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>A Working Group within the Commission for Geoscience Information<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/cgi-gtwg"
+            }
+        ],
+        "field_agor_identifier": [],
+        "field_alternative_names": [],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "http:\/\/www.cgi-iugs.org\/tech_collaboration\/geoscience_terminology_working_group.html",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "158"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "b3e11c7a-028a-4e53-897f-dd501247d854"
+            }
+        ],
+        "vid": [
+            {
+                "value": "450"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1597544683"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Manaaki Whenua \u2013 Landcare Research"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1597544567"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1597544683"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "pid": "177",
+                "source": "\/node\/158",
+                "alias": "\/org\/mwlr",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>Manaaki Whenua \u2013 Landcare Research is one of seven Crown Research Institutes (CRIs) formed in 1992. CRIs function as independent companies but are owned by, and accountable to, the New Zealand Government.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/mwlr"
+            }
+        ],
+        "field_agor_identifier": [],
+        "field_alternative_names": [
+            {
+                "value": "Manaaki Whenua"
+            },
+            {
+                "value": "Landcare Research"
+            }
+        ],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "152"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "9c2ca955-70f6-476c-ae22-a6e6eb814a14"
+            }
+        ],
+        "vid": [
+            {
+                "value": "445"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1590107036"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Department of Agriculture, Water and the Environment"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1588748573"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1590107036"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "pid": "176",
+                "source": "\/node\/152",
+                "alias": "\/org\/dawe",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>The Federal Department representing national interests across agriculture, water and the environment.<\/p>\r\n\r\n<p>A large and diverse portfolio that includes agencies, statutory and non-statutory bodies, independent advisors and industry representatives.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/dawe"
+            }
+        ],
+        "field_agor_identifier": [],
+        "field_alternative_names": [],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "https:\/\/www.awe.gov.au",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "3"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "b7825cf8-c4c1-40fa-861a-1d7dfdeb36ac"
+            }
+        ],
+        "vid": [
+            {
+                "value": "402"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1574734413"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Australian National University"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555296143"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1574734413"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "4",
+                "source": "\/node\/3",
+                "alias": "\/org\/anu",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>ANU is a world-leading university in Australia\u2019s capital. Excellence is embedded in our approach to research and education.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/anu"
+            }
+        ],
+        "field_agor_identifier": [
+            {
+                "value": "O-000827"
+            }
+        ],
+        "field_alternative_names": [],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [
+            {
+                "uri": "https:\/\/grid.ac\/institutes\/grid.1001.0",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_homepage": [
+            {
+                "uri": "https:\/\/www.anu.edu.au",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [
+            {
+                "uri": "https:\/\/ror.org\/019wvm592",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "142"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "fa60d550-ad8a-46f2-9e59-0bac66f477be"
+            }
+        ],
+        "vid": [
+            {
+                "value": "401"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1574734347"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "National Computational Infrastructure"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1574733870"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1574734347"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "161",
+                "source": "\/node\/142",
+                "alias": "\/org\/nci",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>The National Computational Infrastructure (NCI) is Australia\u2019s leading high-performance data, storage and computing organisation, providing expert services to benefit all domains of science, government and industry.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/nci"
+            }
+        ],
+        "field_agor_identifier": [],
+        "field_alternative_names": [
+            {
+                "value": "NCI"
+            }
+        ],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [
+            {
+                "uri": "https:\/\/grid.ac\/institutes\/grid.474065.4",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_homepage": [
+            {
+                "uri": "https:\/\/nci.org.au",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [
+            {
+                "uri": "https:\/\/ror.org\/04yx6dh41",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_unit_of": [
+            {
+                "target_id": "3"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "7"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "140f95d5-c7fa-464b-a102-60b0cf9a4a61"
+            }
+        ],
+        "vid": [
+            {
+                "value": "400"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1574734288"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Commonwealth Scientific and Industrial Research Organisation"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555296300"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1574734288"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "8",
+                "source": "\/node\/7",
+                "alias": "\/org\/csiro",
+                "langcode": "und"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>Australia's national science research agency.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/csiro"
+            }
+        ],
+        "field_agor_identifier": [
+            {
+                "value": "O-000886"
+            }
+        ],
+        "field_alternative_names": [
+            {
+                "value": "CSIRO"
+            }
+        ],
+        "field_crs_identifier": [
+            {
+                "value": "CA-641"
+            }
+        ],
+        "field_grid_identifier": [
+            {
+                "uri": "https:\/\/grid.ac\/institutes\/grid.1016.6",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_homepage": [
+            {
+                "uri": "https:\/\/www.csiro.au",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [
+            {
+                "uri": "https:\/\/ror.org\/03qn8fb07",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "14"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "274626df-120e-469a-aa8a-85e8c5917d49"
+            }
+        ],
+        "vid": [
+            {
+                "value": "399"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1574734108"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Geoscience Australia"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555296530"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1574734108"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "15",
+                "source": "\/node\/14",
+                "alias": "\/org\/ga",
+                "langcode": "und"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>Australia's pre-eminent public sector geoscience organisation. We are the nation's trusted advisor on the geology and geography of Australia. We apply science and technology to describe and understand the Earth for the benefit of Australia.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/ga"
+            }
+        ],
+        "field_agor_identifier": [
+            {
+                "value": "O-000887"
+            }
+        ],
+        "field_alternative_names": [],
+        "field_crs_identifier": [
+            {
+                "value": "CA-7605"
+            }
+        ],
+        "field_grid_identifier": [
+            {
+                "uri": "https:\/\/grid.ac\/institutes\/grid.452453.1",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_homepage": [
+            {
+                "uri": "http:\/\/www.ga.gov.au",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [
+            {
+                "uri": "https:\/\/ror.org\/04ge02x20",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "4"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "aed266c3-9dec-4048-a573-d6a7c0a4d596"
+            }
+        ],
+        "vid": [
+            {
+                "value": "395"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1574733741"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Australian Research Data Commons"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555296209"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1574733741"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "151",
+                "source": "\/node\/4",
+                "alias": "\/org\/ardc",
+                "langcode": "und"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>The Australian Research Data Commons (ARDC) is a transformational initiative that enables Australian researchers and the research community access to nationally significant, leading edge data intensive eInfrastructure, platforms, skills and collections of high-quality data.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/ardc"
+            }
+        ],
+        "field_agor_identifier": [],
+        "field_alternative_names": [
+            {
+                "value": "Australian National Data Service"
+            }
+        ],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "https:\/\/ardc.edu.au",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [
+            {
+                "uri": "https:\/\/ror.org\/038sjwq14",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "139"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "c2259144-498e-418c-8f77-04a5a0a882dd"
+            }
+        ],
+        "vid": [
+            {
+                "value": "389"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1572171572"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Handle Registry"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1572171339"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1572171572"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>The <strong>Handle System<\/strong> is the <a href=\"https:\/\/en.wikipedia.org\/wiki\/Corporation_for_National_Research_Initiatives\">Corporation for National Research Initiatives<\/a>'s proprietary registry assigning <a href=\"https:\/\/en.wikipedia.org\/wiki\/Persistent_identifier\">persistent identifiers<\/a>, or <a href=\"https:\/\/en.wikipedia.org\/wiki\/Handle_(computing)\">handles<\/a>, to information resources, and for resolving \"those handles into the information necessary to locate, access, and otherwise make use of the resources\".<\/p>\r\n\r\n<p>As with handles used elsewhere in computing, Handle System handles are opaque, and encode no information about the underlying resource, being bound only to <a href=\"https:\/\/en.wikipedia.org\/wiki\/Metadata\">metadata<\/a> regarding the resource. Consequently, the handles are not rendered invalid by changes to the metadata.<\/p>\r\n\r\n<p>The system was developed by <a href=\"https:\/\/en.wikipedia.org\/wiki\/Bob_Kahn\">Bob Kahn<\/a> at the <a href=\"https:\/\/en.wikipedia.org\/wiki\/Corporation_for_National_Research_Initiatives\">Corporation for National Research Initiatives<\/a> (CNRI). The original work was funded by the <a href=\"https:\/\/en.wikipedia.org\/wiki\/Defense_Advanced_Research_Projects_Agency\">Defense Advanced Research Projects Agency<\/a> (DARPA) between 1992 and 1996, as part of a wider framework for distributed digital object services,<a href=\"https:\/\/en.wikipedia.org\/wiki\/Handle_System#cite_note-2\">[2]<\/a> and was thus contemporaneous with the early deployment of the <a href=\"https:\/\/en.wikipedia.org\/wiki\/World_Wide_Web\">World Wide Web<\/a>, with similar goals.<\/p>\r\n\r\n<p>Thousands of handle services are currently running. Over 1000 of these are at universities and libraries, but they are also in operation at national laboratories, research groups, government agencies, and commercial enterprises, receiving over 200 million resolution requests per month.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/handle"
+            }
+        ],
+        "field_agor_identifier": [],
+        "field_alternative_names": [],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "http:\/\/handle.net",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "18"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "47d5f943-bba4-4893-ac8c-8247b927d23d"
+            }
+        ],
+        "vid": [
+            {
+                "value": "378"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1571794857"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Terrestrial Ecosystems Research Network"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555297485"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1572171296"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "158",
+                "source": "\/node\/18",
+                "alias": "\/org\/tern",
+                "langcode": "und"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>TERN is Australia\u2019s land ecosystem observatory.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/tern"
+            }
+        ],
+        "field_agor_identifier": [],
+        "field_alternative_names": [],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "https:\/\/www.tern.org.au",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "138"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "ebf3cd66-2cf2-454b-b7b7-41aa9c4cafcf"
+            }
+        ],
+        "vid": [
+            {
+                "value": "388"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1571801415"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "City of Hobart"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1571801311"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1571801415"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "159",
+                "source": "\/node\/138",
+                "alias": "\/org\/coh",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>The 1850s saw the introduction of responsible government in Tasmania and the establishment of municipal administration, in the form of a general purpose locally-elected Council.<\/p>\r\n\r\n<p>A court of fifteen commissioners was created by the&nbsp;<em>Hobart Town Commissioners Act 1846<\/em>, with the commissioners responsible for such things as paving and lighting throughout the city.<\/p>\r\n\r\n<p><span>The first meeting of the Commissioners was held on 29 September 1846, but disputes soon began to arise between the colonial and civic authorities on the apportioning of revenues. Within a year the body of Commissioners was dissolved.<\/span><\/p>\r\n\r\n<p>Municipal government was established by the&nbsp;<em>Hobart Town and Launceston Municipal Council Act 1852<\/em>. During this year the first elections for a seven-member council were held. The new council took office from the beginning of 1853, with William Carter as Mayor.<\/p>\r\n\r\n<p><span>In 1857 the Municipal Council was incorporated (<\/span><em>Hobart Town Corporation Act 1857<\/em><span>), and its constitution and powers redefined.<\/span><\/p>\r\n\r\n<p>Between 1853 and 1934 the Council was led by various mayors, elected annually. The title was raised to \u2018Lord Mayor\u2019 by Letters Patent issued by King George V in January 1934.<\/p>\r\n\r\n<p><span>Further details of the history of Hobart, including its past Aldermen, is available in the historical reference<\/span> Growing with Strength<span>&nbsp;<\/span><em>\u2013 a History of the Hobart City Council 1846<\/em> <em>Council 2000<\/em><span>.<\/span><\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/coh"
+            }
+        ],
+        "field_agor_identifier": [],
+        "field_alternative_names": [
+            {
+                "value": "Hobart City Council"
+            }
+        ],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "https:\/\/www.hobartcity.com.au",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "1"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "9187a1e3-4793-4d95-94b9-21eb55919d63"
+            }
+        ],
+        "vid": [
+            {
+                "value": "387"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1571795918"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Australian Bureau of Statistics"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555295753"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1571795918"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "pid": "149",
+                "source": "\/node\/1",
+                "alias": "\/org\/abs",
+                "langcode": "und"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>The ABS is Australia\u2019s national statistical agency, providing trusted official statistics on a wide range of economic, social, population and environmental matters of importance to Australia.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/abs"
+            }
+        ],
+        "field_agor_identifier": [
+            {
+                "value": "O-000928"
+            }
+        ],
+        "field_alternative_names": [
+            {
+                "value": "ABS"
+            }
+        ],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "https:\/\/www.abs.gov.au",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "12"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "3ee41146-8577-4994-8d36-5dbda95f0369"
+            }
+        ],
+        "vid": [
+            {
+                "value": "368"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1571794757"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Department of Natural Resources, Mines and Energy"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555296525"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1571795565"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "155",
+                "source": "\/node\/12",
+                "alias": "\/org\/dnrme",
+                "langcode": "und"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>The State of Queensland's department for the management of renewable and non-renewable land, water, mineral and energy resources.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/dnrme"
+            }
+        ],
+        "field_agor_identifier": [],
+        "field_alternative_names": [
+            {
+                "value": "DNRME"
+            }
+        ],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "https:\/\/www.dnrme.qld.gov.au",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "16"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "200505b8-40dc-4e2b-b3e1-367f5842b985"
+            }
+        ],
+        "vid": [
+            {
+                "value": "385"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1571795505"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "NSW Ministry of Health"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555296535"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1571795550"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "pid": "156",
+                "source": "\/node\/16",
+                "alias": "\/org\/nsw-health",
+                "langcode": "und"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>The State of New South Wales' health department.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/nsw-health"
+            }
+        ],
+        "field_agor_identifier": [],
+        "field_alternative_names": [],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "https:\/\/www.health.nsw.gov.au",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "17"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "cb91c798-37eb-4040-8384-e41d0d807fea"
+            }
+        ],
+        "vid": [
+            {
+                "value": "386"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1571795514"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "PSMA Australia"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555297484"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1571795538"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "pid": "157",
+                "source": "\/node\/17",
+                "alias": "\/org\/psma",
+                "langcode": "und"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>PSMA Australia provides location data that is reliable, authoritative and accessible.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/psma"
+            }
+        ],
+        "field_agor_identifier": [],
+        "field_alternative_names": [],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "https:\/\/www.psma.com.au",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "9"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "583927f4-8b59-4b6b-9133-b656c70332a2"
+            }
+        ],
+        "vid": [
+            {
+                "value": "366"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1571794741"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Department of Finance"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555296516"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1571795489"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "154",
+                "source": "\/node\/9",
+                "alias": "\/org\/finance",
+                "langcode": "und"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>As a central agency of the Australian Government, the Department of Finance (Finance) plays an important role in assisting government across a wide range of policy areas to ensure its outcomes are met. Finance supports the government\u2019s ongoing priorities through the Budget process and fosters leading practice through the public sector resource management, governance and accountability frameworks.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/finance"
+            }
+        ],
+        "field_agor_identifier": [
+            {
+                "value": "O-000850"
+            }
+        ],
+        "field_alternative_names": [],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "https:\/\/www.finance.gov.au",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "8"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "7fd799e6-1e39-445f-a652-7640e64dcd74"
+            }
+        ],
+        "vid": [
+            {
+                "value": "380"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1571795349"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Department of Agriculture and Water Resources"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555296301"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1571795480"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "pid": "153",
+                "source": "\/node\/8",
+                "alias": "\/org\/dawr",
+                "langcode": "und"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p><span>The Australian Government Department of Agriculture and Water Resources&nbsp;develops and implements policies and programs to ensure Australia's agricultural, fisheries, food and fore\u200bstry indust\u200bries remain competitive, profitable and sustainable, and supports the sustainable and productive management and use of rivers and water resources.<\/span><\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/dawr"
+            }
+        ],
+        "field_agor_identifier": [
+            {
+                "value": "O-000769"
+            }
+        ],
+        "field_alternative_names": [],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "http:\/\/agriculture.gov.au",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "5"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "0a6a3ad1-d24a-4aa8-b72a-5d2d0b7e1502"
+            }
+        ],
+        "vid": [
+            {
+                "value": "384"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1571795470"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Australian Taxation Office"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555296291"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1571795470"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "pid": "152",
+                "source": "\/node\/5",
+                "alias": "\/org\/ato",
+                "langcode": "und"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>The Australian Taxation Office (ATO) is the principal revenue collection agency of the Australian Government.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/ato"
+            }
+        ],
+        "field_agor_identifier": [
+            {
+                "value": "0-000934"
+            }
+        ],
+        "field_alternative_names": [],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "https:\/\/www.ato.gov.au",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "2"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "d09f40a4-dee7-4802-853c-68a0ccb82b40"
+            }
+        ],
+        "vid": [
+            {
+                "value": "382"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1571795450"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Australian Government Linked Data Working Group"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555295835"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1571795450"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "pid": "150",
+                "source": "\/node\/2",
+                "alias": "\/org\/agldwg",
+                "langcode": "und"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>The informal Australian government Working Group charged with assisting any government with matters relating to Linked Data.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/agldwg"
+            }
+        ],
+        "field_agor_identifier": [],
+        "field_alternative_names": [],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "http:\/\/www.linked.data.gov.au",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "13"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "60268f18-9414-4c93-a3e7-e63ec9649bb9"
+            }
+        ],
+        "vid": [
+            {
+                "value": "379"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1571795251"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Geological Survey of Queensland"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555296528"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1571795251"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "pid": "14",
+                "source": "\/node\/13",
+                "alias": "\/org\/gsq",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>The geological survey unit within the State of Queensland's Department of Natural Resources, Mines and Energy.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/gsq"
+            }
+        ],
+        "field_agor_identifier": [],
+        "field_alternative_names": [],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "https:\/\/www.business.qld.gov.au\/industries\/mining-energy-water\/resources\/geoscience-information\/gsq",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "137"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "bcb2258e-d7e6-48c4-8037-4315a3c8708d"
+            }
+        ],
+        "vid": [
+            {
+                "value": "377"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1571794844"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Research Organization Registry Community"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1571721155"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1571794844"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "148",
+                "source": "\/node\/137",
+                "alias": "\/org\/ror",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>ROR is a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world.<\/p>\r\n\r\n<p>Between 2016 and 2018, a group of 17 organizations with a shared purpose invested their time and energy into an Org ID initiative, with the goal of defining requirements for an open, community-led organization identifier registry. The initiative was a transparent, accessible process to help work towards a better system for all of our communities.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/ror"
+            }
+        ],
+        "field_agor_identifier": [],
+        "field_alternative_names": [],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "https:\/\/ror.community\/",
+                "title": "ROR Homepage",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "15"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "2620c60c-e245-45ee-bef2-1322af202e5e"
+            }
+        ],
+        "vid": [
+            {
+                "value": "374"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1571794819"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "National Archives of Australia"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555296532"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1571794819"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "16",
+                "source": "\/node\/15",
+                "alias": "\/org\/naa",
+                "langcode": "und"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>The National Archives of Australia can best be described as the memory of our nation \u2013 collecting and preserving Australian Government records that reflect our history and identity.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/naa"
+            }
+        ],
+        "field_agor_identifier": [
+            {
+                "value": "O-000790"
+            }
+        ],
+        "field_alternative_names": [],
+        "field_crs_identifier": [
+            {
+                "value": "CA-8550"
+            }
+        ],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "http:\/\/naa.gov.au",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "136"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "931b75b1-9d98-4ffa-9a7c-4a14741d4526"
+            }
+        ],
+        "vid": [
+            {
+                "value": "373"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1571794812"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "International Geo Sample Number"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1571720999"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1571794812"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "147",
+                "source": "\/node\/136",
+                "alias": "\/org\/igsn",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>International Geo Sample Number (IGSN), a unique identifier for samples and specimens collected from our natural environment.<\/p>\r\n\r\n<p>The IGSN was developed by the <a href=\"http:\/\/www.geosamples.org\">System for Earth Sample Registration SESAR<\/a>, with funding from the <a href=\"http:\/\/www.nsf.gov\">US National Science Foundation<\/a>.<\/p>\r\n\r\n<p>The IGSN e.V. is incorporated under German law as a not-for-profit society (gemeinn\u00fctziger eingetragener Verein) with a registered office at the GeoForschungsZentrum (GFZ) Potsdam.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/igsn"
+            }
+        ],
+        "field_agor_identifier": [],
+        "field_alternative_names": [
+            {
+                "value": "IGSN Organisation"
+            }
+        ],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "http:\/\/www.igsn.org\/",
+                "title": "IGSN Homepage",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "135"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "f9debad1-6ead-445a-a2bf-44439a83fc8f"
+            }
+        ],
+        "vid": [
+            {
+                "value": "370"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1571794783"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Digital Object Identifier System"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1571720771"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1571794783"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "146",
+                "source": "\/node\/135",
+                "alias": "\/org\/doi",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>This is the web site of the International DOI Foundation (IDF), a not-for-profit <a href=\"https:\/\/www.doi.org\/idf-member-list.html\">membership organization<\/a> that is the governance and management body for the <a href=\"https:\/\/www.doi.org\/registration_agencies.html\">federation of Registration Agencies<\/a> providing Digital Object Identifier (DOI) services and registration, and is the registration authority for the ISO standard (ISO 26324) for the DOI system. The DOI system provides a technical and social infrastructure for the registration and use of persistent interoperable identifiers, called DOIs, for use on digital networks.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/doi"
+            }
+        ],
+        "field_agor_identifier": [],
+        "field_alternative_names": [
+            {
+                "value": "DOI"
+            }
+        ],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "https:\/\/www.doi.org",
+                "title": "DOI Homepage",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "11"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "1f537831-bd5c-46d4-b4f8-1f5bba5d1ee6"
+            }
+        ],
+        "vid": [
+            {
+                "value": "369"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1571794773"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Department of the Environment and Energy"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555296520"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1571794773"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "12",
+                "source": "\/node\/11",
+                "alias": "\/org\/doee",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>The Department designs and implements Australian Government policy and programs to protect and conserve the environment, water and heritage, promote climate action, and provide adequate,&nbsp;reliable and affordable energy.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/doee"
+            }
+        ],
+        "field_agor_identifier": [
+            {
+                "value": "O-000841"
+            }
+        ],
+        "field_alternative_names": [
+            {
+                "value": "DoEE"
+            }
+        ],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "http:\/\/environment.gov.au",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "10"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "657b5214-06cc-4f2d-bafc-a27bd87da11e"
+            }
+        ],
+        "vid": [
+            {
+                "value": "367"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1571794749"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Department of Human Services"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555296522"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1571794749"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "11",
+                "source": "\/node\/10",
+                "alias": "\/org\/dhs",
+                "langcode": "und"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>Responsible for the development of service delivery policy and provide access to social, health and other payments and services.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/dhs"
+            }
+        ],
+        "field_agor_identifier": [
+            {
+                "value": "O-000880"
+            }
+        ],
+        "field_alternative_names": [
+            {
+                "value": "DHS"
+            }
+        ],
+        "field_crs_identifier": [
+            {
+                "value": "CA-7853"
+            }
+        ],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "https:\/\/www.humanservices.gov.au",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "68"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "fe0f9bea-44e0-44a0-b430-6eaeae3607a6"
+            }
+        ],
+        "vid": [
+            {
+                "value": "365"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1571794731"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Department of Environment and Science, Queensland Government"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1556516565"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1571794731"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "79",
+                "source": "\/node\/68",
+                "alias": "\/org\/des",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<h3>Environment<\/h3>\r\n\r\n<ul>\r\n\t<li>protect and manage our parks, forests and the Great Barrier Reef for current and future generations<\/li>\r\n\t<li>enhance Queensland\u2019s ecosystems<\/li>\r\n\t<li>protect significant heritage places<\/li>\r\n\t<li>avoid, minimise or mitigate impacts to the environment.<\/li>\r\n<\/ul>\r\n\r\n<h3>Science<\/h3>\r\n\r\n<ul>\r\n\t<li>lead the development of science strategy for government<\/li>\r\n\t<li>deliver scientific expertise to protect and manage our environment and natural resource base<\/li>\r\n\t<li>support the development of Queensland\u2019s science sector.<\/li>\r\n<\/ul>\r\n\r\n<h3>Arts<\/h3>\r\n\r\n<ul>\r\n\t<li>foster a community of the arts and facilitate growth of the arts and cultural sector<\/li>\r\n\t<li>support arts and cultural growth through partnerships, programs and events<\/li>\r\n\t<li>invest in all levels of the arts and cultural sector<\/li>\r\n\t<li>grow Queensland\u2019s cultural reputation and cultural tourism offering.<\/li>\r\n<\/ul>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/des"
+            }
+        ],
+        "field_agor_identifier": [],
+        "field_alternative_names": [
+            {
+                "value": "DES"
+            }
+        ],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "https:\/\/www.des.qld.gov.au",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "6"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "1534d6a2-135d-4bd7-9a53-c9a0017abfab"
+            }
+        ],
+        "vid": [
+            {
+                "value": "362"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1571794706"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Bureau of Meteorology"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555296298"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1571794706"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "7",
+                "source": "\/node\/6",
+                "alias": "\/org\/bom",
+                "langcode": "und"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>The Bureau of Meteorology is Australia's national weather, climate and water agency. Its expertise and services assist Australians in dealing with the harsh realities of their natural environment, including drought, floods, fires, storms, tsunami and tropical cyclones. Through regular forecasts, warnings, monitoring and advice spanning the Australian region and Antarctic territory, the Bureau provides one of the most fundamental and widely used services of government.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/bom"
+            }
+        ],
+        "field_agor_identifier": [
+            {
+                "value": "O-000843"
+            }
+        ],
+        "field_alternative_names": [
+            {
+                "value": "BoM"
+            },
+            {
+                "value": "BOM"
+            }
+        ],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "http:\/\/www.bom.gov.au",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    },
+    {
+        "nid": [
+            {
+                "value": "124"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "1d1bc81b-0f64-4d54-a930-4598d54f6630"
+            }
+        ],
+        "vid": [
+            {
+                "value": "357"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "organisation"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1571794652"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Australian Geoscience Information Network"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1566529922"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1571794652"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "135",
+                "source": "\/node\/124",
+                "alias": "\/org\/ausgin",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>AusGIN gives &nbsp;people and companies interested in exploring for minerals in Australia a single &nbsp;point of access for information about mineral resource &nbsp;exploration in all Australian jurisdictions, and to geological and geophysical &nbsp;data from all Australian governments.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/org\/ausgin"
+            }
+        ],
+        "field_agor_identifier": [],
+        "field_alternative_names": [
+            {
+                "value": "AusGIN"
+            }
+        ],
+        "field_crs_identifier": [],
+        "field_grid_identifier": [],
+        "field_homepage": [
+            {
+                "uri": "http:\/\/www.geoscience.gov.au\/about",
+                "title": "",
+                "options": []
+            }
+        ],
+        "field_ror_identifier": [],
+        "field_unit_of": []
+    }
+]

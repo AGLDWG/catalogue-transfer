@@ -1,0 +1,4942 @@
+[
+    {
+        "nid": [
+            {
+                "value": "22"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "6564468a-8e36-4da0-a5f4-ff700b3d206e"
+            }
+        ],
+        "vid": [
+            {
+                "value": "474"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1605509547"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "27"
+            }
+        ],
+        "revision_log": [
+            {
+                "value": "Adjust title to reflect the fact that this namespace will be used for both OWL and SKOS resources. "
+            }
+        ],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Foundational Spatial Data Framework (FSDF) Ontology and Vocabularies"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555304022"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1605509547"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "34",
+                "source": "\/node\/22",
+                "alias": "\/resource\/22",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>An ontology describing the data class-level relationships between Semantic Web versions of <a href=\"http:\/\/fsdf.org.au\">Foundational Spatial Data Framework (FSDF)<\/a> datasets.&nbsp;<\/p>\r\n\r\n<p>Vocabulary elements used in classifying and annotating FSDF datasets.&nbsp;<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/fsdf"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_date_accepted": [
+            {
+                "value": "2018-10-03"
+            }
+        ],
+        "field_ontology_file": [
+            {
+                "target_id": "4",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "6"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "175"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "ed9500da-16d8-4fbc-b597-0bf605a8c473"
+            }
+        ],
+        "vid": [
+            {
+                "value": "472"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1605173710"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Imagery"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "created": [
+            {
+                "value": "1605173449"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1605173710"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "194",
+                "source": "\/node\/175",
+                "alias": "\/resource\/175",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p><span><span><span><span><span><span><span>ANZLIC\u2019s Strategic Plan 2020-24 identifies modernisation of foundation spatial information and data1 as a key strategic initiative.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span>The roadmap within ANZLIC\u2019s Strategic Plan outlines modernising ANZLIC\u2019s Foundation Spatial Data Framework (FSDF) as a key initiative, as well as driving development and adoption of open spatial data standards that align with and inform international standards.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>Geoscience Australia (GA) facilitates transitioning of many of the FSDF themes (<\/span><\/span><\/span><a href=\"http:\/\/fsdf.org.au\/\"><span><span>http:\/\/fsdf.org.au\/<\/span><\/span><\/a><span><span><span>) into the Linked Data format. Imagery is one of core FSDF themes that is undertaking a development of an information model (ontology) and its transformation to the Linked Data Format. On completion, Imagery data will be available through a Linked Data Registry.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>&nbsp;GA would like to register the Imagery ontology at the AGLDWG repository and to apply for the following URI:&nbsp;<\/span><\/span><\/span><span lang=\"EN-US\"><span><span>linked.data.gov.au\/def\/imagery<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/imagery"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_date_accepted": [],
+        "field_ontology_file": [
+            {
+                "target_id": "143",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "11"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "1"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "174"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "45d6d37f-2858-4fac-a3ba-b1bc40093a72"
+            }
+        ],
+        "vid": [
+            {
+                "value": "470"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1605173233"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Water"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "created": [
+            {
+                "value": "1605173229"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1605173233"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "193",
+                "source": "\/node\/174",
+                "alias": "\/resource\/174",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p><span><span><span><span><span><span><span>ANZLIC\u2019s Strategic Plan 2020-24 identifies modernisation of foundation spatial information and data1 as a key strategic initiative.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span>The roadmap within ANZLIC\u2019s Strategic Plan outlines modernising ANZLIC\u2019s Foundation Spatial Data Framework (FSDF) as a key initiative, as well as driving development and adoption of open spatial data standards that align with and inform international standards.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>Geoscience Australia (GA) facilitates transitioning of many of the FSDF themes (<\/span><\/span><\/span><a href=\"http:\/\/fsdf.org.au\/\"><span><span>http:\/\/fsdf.org.au\/<\/span><\/span><\/a><span><span><span>) into the Linked Data format. Water is one of core FSDF themes that is undertaking a development of an information model (ontology) and its transformation to the Linked Data Format. On completion, Water data will be available through a Linked Data Registry.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>&nbsp;GA would like to register the Water ontology at the AGLDWG repository and to apply for the following URI:&nbsp;<\/span><\/span><\/span><span lang=\"EN-US\"><span><span>linked.data.gov.au\/def\/water<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/water"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_date_accepted": [],
+        "field_ontology_file": [
+            {
+                "target_id": "140",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "11"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "1"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "173"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "73cd2501-4805-476b-beaf-40514d03ab69"
+            }
+        ],
+        "vid": [
+            {
+                "value": "469"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1605173124"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Soil"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "created": [
+            {
+                "value": "1605173118"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1605173124"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "192",
+                "source": "\/node\/173",
+                "alias": "\/resource\/173",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p><span><span><span><span><span><span><span>ANZLIC\u2019s Strategic Plan 2020-24 identifies modernisation of foundation spatial information and data1 as a key strategic initiative.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span>The roadmap within ANZLIC\u2019s Strategic Plan outlines modernising ANZLIC\u2019s Foundation Spatial Data Framework (FSDF) as a key initiative, as well as driving development and adoption of open spatial data standards that align with and inform international standards.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>Geoscience Australia (GA) facilitates transitioning of many of the FSDF themes (<\/span><\/span><\/span><a href=\"http:\/\/fsdf.org.au\/\"><span><span>http:\/\/fsdf.org.au\/<\/span><\/span><\/a><span><span><span>) into the Linked Data format. Geology and Soils is one of core FSDF themes that is undertaking a development of an information model (ontology) and its transformation to the Linked Data Format.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>&nbsp;GA would like to register the Soil ontology at the AGLDWG repository and to apply for the following URI:&nbsp;<\/span><\/span><\/span><span lang=\"EN-US\"><span><span>linked.data.gov.au\/def\/soil<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/soil"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_date_accepted": [],
+        "field_ontology_file": [
+            {
+                "target_id": "139",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "11"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "1"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "172"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "90b512df-648d-4ab3-ac03-5226bbf613c7"
+            }
+        ],
+        "vid": [
+            {
+                "value": "468"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1605173029"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Positioning"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "created": [
+            {
+                "value": "1605173025"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1605173029"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "191",
+                "source": "\/node\/172",
+                "alias": "\/resource\/172",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p><span><span><span><span><span><span><span>ANZLIC\u2019s Strategic Plan 2020-24 identifies modernisation of foundation spatial information and data1 as a key strategic initiative.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span>The roadmap within ANZLIC\u2019s Strategic Plan outlines modernising ANZLIC\u2019s Foundation Spatial Data Framework (FSDF) as a key initiative, as well as driving development and adoption of open spatial data standards that align with and inform international standards.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>Geoscience Australia (GA) facilitates transitioning of many of the FSDF themes (<\/span><\/span><\/span><a href=\"http:\/\/fsdf.org.au\/\"><span><span>http:\/\/fsdf.org.au\/<\/span><\/span><\/a><span><span><span>) into the Linked Data format. Positioning is one of core FSDF themes that is undertaking a development of an information model (ontology) and its transformation to the Linked Data Format. On completion, Positioning data will be available through a Linked Data Registry.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>&nbsp;GA would like to register the Positioning ontology at the AGLDWG repository and to apply for the following URI:&nbsp;<\/span><\/span><\/span><span lang=\"EN-US\"><span><span>linked.data.gov.au\/def\/positioning<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/positioning"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_date_accepted": [],
+        "field_ontology_file": [
+            {
+                "target_id": "138",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "11"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "1"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "171"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "93d44aa1-229e-4756-8585-421f3fa4dc64"
+            }
+        ],
+        "vid": [
+            {
+                "value": "467"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1605172937"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Population Distributions"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "created": [
+            {
+                "value": "1605172933"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1605172937"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "190",
+                "source": "\/node\/171",
+                "alias": "\/resource\/171",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p><span><span><span><span><span><span><span>ANZLIC\u2019s Strategic Plan 2020-24 identifies modernisation of foundation spatial information and data1 as a key strategic initiative.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span>The roadmap within ANZLIC\u2019s Strategic Plan outlines modernising ANZLIC\u2019s Foundation Spatial Data Framework (FSDF) as a key initiative, as well as driving development and adoption of open spatial data standards that align with and inform international standards.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>Geoscience Australia (GA) facilitates transitioning of many of the FSDF themes (<\/span><\/span><\/span><a href=\"http:\/\/fsdf.org.au\/\"><span><span>http:\/\/fsdf.org.au\/<\/span><\/span><\/a><span><span><span>) into the Linked Data format. Population Distributions is one of core FSDF themes that is undertaking a development of an information model (ontology) and its transformation to the Linked Data Format. On completion, Population Distributions data will be available through a Linked Data Registry.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>&nbsp;GA would like to register the Population Distributions ontology at the AGLDWG repository and to apply for the following URI:&nbsp;<\/span><\/span><\/span><span lang=\"EN-US\"><span><span>linked.data.gov.au\/def\/population<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/population"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_date_accepted": [],
+        "field_ontology_file": [
+            {
+                "target_id": "137",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "11"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "1"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "170"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "35bfcc83-2870-429f-b1df-cd0040671973"
+            }
+        ],
+        "vid": [
+            {
+                "value": "466"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1605172833"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Land Cover and Land Use"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "created": [
+            {
+                "value": "1605172829"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1605172833"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "189",
+                "source": "\/node\/170",
+                "alias": "\/resource\/170",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p><span><span><span><span><span><span><span>ANZLIC\u2019s Strategic Plan 2020-24 identifies modernisation of foundation spatial information and data1 as a key strategic initiative.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span>The roadmap within ANZLIC\u2019s Strategic Plan outlines modernising ANZLIC\u2019s Foundation Spatial Data Framework (FSDF) as a key initiative, as well as driving development and adoption of open spatial data standards that align with and inform international standards.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>Geoscience Australia (GA) &nbsp;facilitates transitioning of many of the FSDF themes (<\/span><\/span><\/span><a href=\"http:\/\/fsdf.org.au\/\"><span><span>http:\/\/fsdf.org.au\/<\/span><\/span><\/a><span><span><span>) into the Linked Data format. Land Cover and Land Use&nbsp;is one of core FSDF themes that is undertaking a development of an information model (ontology) and its transformation to the Linked Data Format. On completion, Land Cover and Land Use data will be available through a Linked Data Registry.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>&nbsp;GA would like to register the Land Cover and Land Use ontology at the AGLDWG repository and to apply for the following URI:&nbsp;<\/span><\/span><\/span><span lang=\"EN-US\"><span><span>linked.data.gov.au\/def\/land-cover-land-use<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/land-cover-land-use"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_date_accepted": [],
+        "field_ontology_file": [
+            {
+                "target_id": "136",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "11"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "1"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "169"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "30ef831b-a795-4836-a07d-4c2e8762bc5b"
+            }
+        ],
+        "vid": [
+            {
+                "value": "465"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1605172617"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Geology"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "created": [
+            {
+                "value": "1605172610"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1605172617"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "188",
+                "source": "\/node\/169",
+                "alias": "\/resource\/169",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p><span><span><span><span><span><span><span>ANZLIC\u2019s Strategic Plan 2020-24 identifies modernisation of foundation spatial information and data1 as a key strategic initiative.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span>The roadmap within ANZLIC\u2019s Strategic Plan outlines modernising ANZLIC\u2019s Foundation Spatial Data Framework (FSDF) as a key initiative, as well as driving development and adoption of open spatial data standards that align with and inform international standards.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>Geoscience Australia (GA) facilitates transitioning of many of the FSDF themes (<\/span><\/span><\/span><a href=\"http:\/\/fsdf.org.au\/\"><span><span>http:\/\/fsdf.org.au\/<\/span><\/span><\/a><span><span><span>) into the Linked Data format. Geology and Soils is one of core FSDF themes that is undertaking a development of an information model (ontology) and its transformation to the Linked Data Format.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>&nbsp;GA would like to register the Geology ontology at the AGLDWG repository and to apply for the following URI:&nbsp;<\/span><\/span><\/span><span lang=\"EN-US\"><span><span>linked.data.gov.au\/def\/geology<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/geology"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_date_accepted": [],
+        "field_ontology_file": [
+            {
+                "target_id": "134",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "11"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "1"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "168"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "cc6d5284-9660-41c9-9258-f67f2de62e37"
+            }
+        ],
+        "vid": [
+            {
+                "value": "464"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1605172522"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Elevation and Depth"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "created": [
+            {
+                "value": "1605172509"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1605172522"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "187",
+                "source": "\/node\/168",
+                "alias": "\/resource\/168",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p><span><span><span><span><span><span><span>ANZLIC\u2019s Strategic Plan 2020-24 identifies modernisation of foundation spatial information and data1 as a key strategic initiative.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span>The roadmap within ANZLIC\u2019s Strategic Plan outlines modernising ANZLIC\u2019s Foundation Spatial Data Framework (FSDF) as a key initiative, as well as driving development and adoption of open spatial data standards that align with and inform international standards.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>Geoscience Australia (GA) facilitates transitioning of many of the FSDF themes (<\/span><\/span><\/span><a href=\"http:\/\/fsdf.org.au\/\"><span><span>http:\/\/fsdf.org.au\/<\/span><\/span><\/a><span><span><span>) into the Linked Data format. Elevation and Depth is one of core FSDF themes that is undertaking a development of an information model (ontology) and its transformation to the Linked Data Format. On completion, Elevation and Depth data will be available through a Linked Data Registry.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>&nbsp;GA would like to register the Elevation and Depth ontology at the AGLDWG repository and to apply for the following URI:&nbsp;<\/span><\/span><\/span><span lang=\"EN-US\"><span><span>linked.data.gov.au\/def\/elevation<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/elevation"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_date_accepted": [],
+        "field_ontology_file": [
+            {
+                "target_id": "133",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "11"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "1"
+            },
+            {
+                "target_id": "6"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "167"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "0748c26d-afd7-448b-aca8-837f2d944b0c"
+            }
+        ],
+        "vid": [
+            {
+                "value": "463"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1605172411"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Land Parcel and Property"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "created": [
+            {
+                "value": "1605172406"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1605172411"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "186",
+                "source": "\/node\/167",
+                "alias": "\/resource\/167",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p><span><span><span><span><span><span><span>ANZLIC\u2019s Strategic Plan 2020-24 identifies modernisation of foundation spatial information and data1 as a key strategic initiative.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span>The roadmap within ANZLIC\u2019s Strategic Plan outlines modernising ANZLIC\u2019s Foundation Spatial Data Framework (FSDF) as a key initiative, as well as driving development and adoption of open spatial data standards that align with and inform international standards.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>Geoscience Australia (GA) facilitates transitioning of many of the FSDF themes (<\/span><\/span><\/span><a href=\"http:\/\/fsdf.org.au\/\"><span><span>http:\/\/fsdf.org.au\/<\/span><\/span><\/a><span><span><span>) into the Linked Data format. Land Parcel and Property is one of core FSDF themes that is undertaking a development of an information model (ontology) and its transformation to the Linked Data Format. On completion, Land Parcel and Property data will be available through a Linked Data Registry.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>&nbsp;GA would like to register the Land Parcel and Property ontology at the AGLDWG repository and to apply for the following URI:&nbsp;<\/span><\/span><\/span><span lang=\"EN-US\"><span><span>linked.data.gov.au\/def\/cadastre<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/cadastre"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_date_accepted": [],
+        "field_ontology_file": [
+            {
+                "target_id": "132",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "11"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "1"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "166"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "d1a9c876-2b4a-4481-ab69-f722b33ca1ad"
+            }
+        ],
+        "vid": [
+            {
+                "value": "462"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1605172231"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Buildings and Settlements"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "created": [
+            {
+                "value": "1605172227"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1605172231"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "185",
+                "source": "\/node\/166",
+                "alias": "\/resource\/166",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p><span><span><span><span><span><span><span>ANZLIC\u2019s Strategic Plan 2020-24 identifies modernisation of foundation spatial information and data1 as a key strategic initiative.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span>The roadmap within ANZLIC\u2019s Strategic Plan outlines modernising ANZLIC\u2019s Foundation Spatial Data Framework (FSDF) as a key initiative, as well as driving development and adoption of open spatial data standards that align with and inform international standards.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>Geoscience Australia (GA) facilitates transitioning of many of the FSDF themes (<\/span><\/span><\/span><a href=\"http:\/\/fsdf.org.au\/\"><span><span>http:\/\/fsdf.org.au\/<\/span><\/span><\/a><span><span><span>) into the Linked Data format. Buildings and Settlements is one of core FSDF themes that is undertaking a development of an information model (ontology) and its transformation to the Linked Data Format. On completion, Buildings and Settlements data will be available through a Linked Data Registry.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>&nbsp;GA would like to register the Buildings and Settlements ontology at the AGLDWG repository and to apply for the following URI:&nbsp;<\/span><\/span><\/span><span lang=\"EN-US\"><span><span>linked.data.gov.au\/def\/building<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/building"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_date_accepted": [],
+        "field_ontology_file": [
+            {
+                "target_id": "131",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "11"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "1"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "165"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "6b8def81-155a-40ed-bacf-3522ddb6c993"
+            }
+        ],
+        "vid": [
+            {
+                "value": "461"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1605172062"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Administrative Boundaries"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "created": [
+            {
+                "value": "1605172056"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1605172062"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "184",
+                "source": "\/node\/165",
+                "alias": "\/resource\/165",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p><span><span><span><span><span><span><span>ANZLIC\u2019s Strategic Plan 2020-24 identifies modernisation of foundation spatial information and data1 as a key strategic initiative.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span>The roadmap within ANZLIC\u2019s Strategic Plan outlines modernising ANZLIC\u2019s Foundation Spatial Data Framework (FSDF) as a key initiative, as well as driving development and adoption of open spatial data standards that align with and inform international standards.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>Geoscience Australia (GA) facilitates transitioning of many of the FSDF themes (<\/span><\/span><\/span><a href=\"http:\/\/fsdf.org.au\/\"><span><span>http:\/\/fsdf.org.au\/<\/span><\/span><\/a><span><span><span>) into the Linked Data format. Administrative Boundaries is one of core FSDF themes that is undertaking a development of an information model (ontology) and its transformation to the Linked Data Format. On completion, Administrative Boundaries data will be available through a Linked Data Registry.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>&nbsp;GA would like to register the Administrative Boundaries ontology at the AGLDWG repository and to apply for the following URI:&nbsp;<\/span><\/span><\/span><span lang=\"EN-US\"><span><span>linked.data.gov.au\/def\/admin-boundaries<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/admin-boundaries"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_date_accepted": [],
+        "field_ontology_file": [
+            {
+                "target_id": "130",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "11"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "1"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "163"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "ef9d787b-1c92-464c-8a49-d4eb0da7af7b"
+            }
+        ],
+        "vid": [
+            {
+                "value": "460"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1605171880"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Transport"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "created": [
+            {
+                "value": "1605155388"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1605171880"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "182",
+                "source": "\/node\/163",
+                "alias": "\/resource\/163",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p><span><span><span><span><span><span><span>ANZLIC\u2019s Strategic Plan 2020-24 identifies modernisation of foundation spatial information and data1 as a key strategic initiative.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span>The roadmap within ANZLIC\u2019s Strategic Plan outlines modernising ANZLIC\u2019s Foundation Spatial Data Framework (FSDF) as a key initiative, as well as driving development and adoption of open spatial data standards that align with and inform international standards.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p>Geoscience Australia (GA)<span><span><span><span><span><span><span><span>facilitates&nbsp;transitioning of many of the FSDF themes (<a href=\"http:\/\/fsdf.org.au\/\">http:\/\/fsdf.org.au\/<\/a>) into the Linked Data format. Transport is one of core FSDF themes that is undertaking an activity of development an information model (ontology) and its transformation to the Linked Data Format. On completion, Transport data will be available through a Linked Data Registry.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>GA would like to register the Transport ontology at the AGLDWG repository and to apply for the following URI:&nbsp;<\/span><\/span><\/span><span lang=\"EN-US\"><span><span><a href=\"http:\/\/linked.data.gov.au\/def\/placenames\"><span>linked.data.gov.au\/def\/transport<\/span><\/a><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/transport"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_date_accepted": [],
+        "field_ontology_file": [
+            {
+                "target_id": "128",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "11"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "1"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "164"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "f9abc31b-430f-492f-9e1b-5ddb8de3c5ac"
+            }
+        ],
+        "vid": [
+            {
+                "value": "459"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1605171827"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Physical Infrastructure"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "created": [
+            {
+                "value": "1605171792"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1605171827"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "183",
+                "source": "\/node\/164",
+                "alias": "\/resource\/164",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p><span><span><span><span><span><span><span>ANZLIC\u2019s Strategic Plan 2020-24 identifies modernisation of foundation spatial information and data1 as a key strategic initiative.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span>The roadmap within ANZLIC\u2019s Strategic Plan outlines modernising ANZLIC\u2019s Foundation Spatial Data Framework (FSDF) as a key initiative, as well as driving development and adoption of open spatial data standards that align with and inform international standards.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>Geoscience Australia (GA) facilitates transitioning of many of the FSDF themes (<\/span><\/span><\/span><a href=\"http:\/\/fsdf.org.au\/\"><span><span>http:\/\/fsdf.org.au\/<\/span><\/span><\/a><span><span><span>) into the Linked Data format. Physical Infrastructure is one of core FSDF themes that is undertaking a development of an information model (ontology) and its transformation to the Linked Data Format. On completion, Physical Infrastructure data will be available through a Linked Data Registry.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><span><span>&nbsp;GA would like to register the Physical Infrastructure ontology at the AGLDWG repository and to apply for the following URI:&nbsp;<\/span><\/span><\/span><span lang=\"EN-US\"><span><span>linked.data.gov.au\/def\/infrastructure<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/infrastructure"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_date_accepted": [],
+        "field_ontology_file": [
+            {
+                "target_id": "129",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "11"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "1"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "157"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "637b6e46-9ff2-488a-a50e-546c75f8b5fd"
+            }
+        ],
+        "vid": [
+            {
+                "value": "447"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1591059329"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "AusPix DGGS ontology"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "created": [
+            {
+                "value": "1589862569"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1591059329"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "175",
+                "source": "\/node\/157",
+                "alias": "\/resource\/157",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>This is a request to create a namespace for the AusPix DGGS ontology<\/p>\r\n\r\n<p>Discrete Global Grid System (DGGS) is a spatial reference system that uses a hierarchy of equal area tessellations to partition the surface of the Earth into grid cells or their analogous lattice points. In this way, information recorded about phenomena and observation measurements at a location can be easily referenced to the explicit area of the associated cell, integrated with other cell values, and provide statistically valid summaries based on any chosen selection of cells. In order for a grid based global spatial information framework to operate effectively as an analytical system it should be constructed using cells that represent the surface of the Earth uniformly. With equal area partitioning, spatial analyses can be replicated consistently anywhere on the Earth independently of resolution or indeed scales. The&nbsp;quadrilateral-based approach of the rHEALPix DGGS was found more suitable for a geospatial application as it&nbsp;mirrored the geographic grid more closely.<\/p>\r\n\r\n<p>The&nbsp;<em>AusPIX DGGS<\/em>&nbsp;is an Australian Government implimentation of the rHealpix DGGS model.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/auspix"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "27"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_date_accepted": [
+            {
+                "value": "2020-05-20"
+            }
+        ],
+        "field_ontology_file": [
+            {
+                "target_id": "124",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "1"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "151"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "498558fa-50c7-442f-b369-887db51e61ac"
+            }
+        ],
+        "vid": [
+            {
+                "value": "443"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1589787799"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Project ontology"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "27"
+            }
+        ],
+        "created": [
+            {
+                "value": "1587804910"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1589787799"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "170",
+                "source": "\/node\/151",
+                "alias": "\/resource\/151",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>The&nbsp;PROJECT&nbsp;ontology&nbsp;is&nbsp;designed&nbsp;to&nbsp;enable&nbsp;publication&nbsp;of&nbsp;information&nbsp;describing&nbsp;projects,&nbsp;including&nbsp;research&nbsp;projects.&nbsp;It&nbsp;is&nbsp;not&nbsp;designed&nbsp;to&nbsp;support&nbsp;project&nbsp;management,&nbsp;though&nbsp;sub-activities&nbsp;are&nbsp;included.&nbsp;As&nbsp;far&nbsp;as&nbsp;possible&nbsp;PROJECT&nbsp;is&nbsp;intended&nbsp;to&nbsp;be&nbsp;domain-neutral,&nbsp;and&nbsp;it&nbsp;is&nbsp;expected&nbsp;that&nbsp;domains&nbsp;and&nbsp;applications&nbsp;will&nbsp;specialize&nbsp;or&nbsp;extend&nbsp;this&nbsp;ontology&nbsp;for&nbsp;more&nbsp;specific&nbsp;purposes.<\/p>\r\n\r\n<p>The&nbsp;ontology&nbsp;gives&nbsp;terms&nbsp;to&nbsp;support&nbsp;the&nbsp;representation&nbsp;of:<\/p>\r\n\r\n<p>-&nbsp;project&nbsp;planning,&nbsp;funding,&nbsp;goals<\/p>\r\n\r\n<p>-&nbsp;project&nbsp;stakeholders&nbsp;and&nbsp;relationships<\/p>\r\n\r\n<p>-&nbsp;project&nbsp;activities&nbsp;and&nbsp;timeline<\/p>\r\n\r\n<p>One&nbsp;specialization&nbsp;is&nbsp;included&nbsp;-&nbsp;the&nbsp;**Research&nbsp;Project**&nbsp;-&nbsp;which&nbsp;has&nbsp;been&nbsp;the&nbsp;subject&nbsp;of&nbsp;several&nbsp;predecessor&nbsp;designs&nbsp;that&nbsp;have&nbsp;informed&nbsp;the&nbsp;design&nbsp;of&nbsp;this&nbsp;ontology.<\/p>\r\n\r\n<p>PROJECT&nbsp;extends&nbsp;the&nbsp;W3C&nbsp;PROV-O&nbsp;ontology.&nbsp;Otherwise,&nbsp;it&nbsp;has&nbsp;no&nbsp;dependencies&nbsp;except&nbsp;for&nbsp;the&nbsp;normal&nbsp;RDF\/OWL&nbsp;infrastructure&nbsp;(RDF&nbsp;[rdf11-concepts],&nbsp;RDFS&nbsp;[rdf-schema],&nbsp;OWL&nbsp;[owl2-quick-reference]),&nbsp;Dublin&nbsp;Core&nbsp;[dc-terms]&nbsp;for&nbsp;some&nbsp;ontology&nbsp;metadata,&nbsp;and&nbsp;SKOS&nbsp;[skos-reference]&nbsp;to&nbsp;support&nbsp;some&nbsp;relationships&nbsp;between&nbsp;Role&nbsp;values,&nbsp;and&nbsp;project&nbsp;classification.<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "http:\/\/linked.data.gov.au\/def\/project"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "27"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_date_accepted": [
+            {
+                "value": "2020-05-18"
+            }
+        ],
+        "field_ontology_file": [
+            {
+                "target_id": "119",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "6"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "155"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "4b40097a-e6dd-4b6c-a4dd-ae9ef6b084dc"
+            }
+        ],
+        "vid": [
+            {
+                "value": "440"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1588922324"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Plant Health Surveillance"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "32"
+            }
+        ],
+        "created": [
+            {
+                "value": "1588820108"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1588922324"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "173",
+                "source": "\/node\/155",
+                "alias": "\/resource\/155",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>Plant health surveillance is conducted by biosecurity agencies and industry to maintain food quality, prevent the spread of pests and facilitate trade in foodstuffs. The term&nbsp;<strong>Pest Record<\/strong>&nbsp;is defined in&nbsp;<strong><a href=\"https:\/\/www.ippc.int\/en\/core-activities\/standards-setting\/ispms\/\">ISPM 6<\/a><\/strong>. International Standards for Phytosanitary Measures (ISPMs) are standards adopted by the Commission on Phytosanitary Measures (CPM), which is the governing body of the International Plant Protection Convention (IPPC).<\/p>\r\n\r\n<p>This work is being carried out by the Australian Government Department of Agriculture and Water Resources in collaboration with Biosecurity Agencies of Australian&nbsp;states and territories. The&nbsp;<strong>PRS<\/strong>&nbsp;builds on a simpler standard, the National Minimum Dataset Specification (NMDS), which defines fewer data elements, and did not use the Resource Description Framework.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/phs"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "32"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "field_date_accepted": [
+            {
+                "value": "2020-11-07"
+            }
+        ],
+        "field_ontology_file": [
+            {
+                "target_id": "122",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "1"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "126"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "ebcbb0bc-f216-4abf-8505-5de6f972eced"
+            }
+        ],
+        "vid": [
+            {
+                "value": "414"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1580790288"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "27"
+            }
+        ],
+        "revision_log": [
+            {
+                "value": "New version of GeoSPARQL extensions ontology\r\nhttps:\/\/raw.githack.com\/CSIRO-enviro-informatics\/geosparql-ext-ont\/master\/geox.ttl\r\ndoco here\r\nhttps:\/\/raw.githack.com\/CSIRO-enviro-informatics\/geosparql-ext-ont\/master\/geox.html"
+            }
+        ],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "GeoSPARQL extensions"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "27"
+            }
+        ],
+        "created": [
+            {
+                "value": "1569917495"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1580790288"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "137",
+                "source": "\/node\/126",
+                "alias": "\/resource\/126",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>An extensions ontology adding new properties, axioms and classes to [GeoSPARQL](http:\/\/www.opengeospatial.org\/standards\/geosparql).<\/p>\r\n\r\n<p>This ontology allows for the representation of additional elements of feature geometry, such as spatial-resolution, length, area and volume.&nbsp;<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/geox"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "27"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_date_accepted": [
+            {
+                "value": "2019-10-15"
+            }
+        ],
+        "field_ontology_file": [
+            {
+                "target_id": "116",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "1"
+            },
+            {
+                "target_id": "6"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "27"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "d45ff20b-38de-4526-8bce-0e7e87eb542c"
+            }
+        ],
+        "vid": [
+            {
+                "value": "413"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1580790161"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "27"
+            }
+        ],
+        "revision_log": [
+            {
+                "value": "New version of Loc-I ontology \r\nreference copy here: \r\nhttps:\/\/raw.githack.com\/CSIRO-enviro-informatics\/loci-ont\/master\/loci.ttl\r\nwith doco here\r\nhttps:\/\/raw.githack.com\/CSIRO-enviro-informatics\/loci-ont\/master\/loci.html"
+            }
+        ],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Loc-I Ontology"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555304506"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1580790161"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "39",
+                "source": "\/node\/27",
+                "alias": "\/resource\/27",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>An ontology describing specialised spatial and dataset classes for the Location Integration Capability (LOC-I) projects. LOC-I is one of the <span>Data Integration Partnership for Australia (DIPA) <a href=\"https:\/\/www.pmc.gov.au\/public-data\/data-integration-partnership-australia\">https:\/\/www.pmc.gov.au\/public-data\/data-integration-partnership-australia<\/a> projects, in this case involving CSIRO, GA, ABS &amp; DoEE.<\/span><\/p>\r\n\r\n<p><span>This ontology will subclass the GeoSPARQL Feature class by adding constraints to ensure that all geo:Feature objects published within LOC-I datasets contain certain relations, for example, a link from the Feature to a dcat:Dataset object that contains it, thus making clear what Dataset the feature is within.<\/span><\/p>\r\n\r\n<p><span>The ontology will also subclass dcat:Dataset (v2 of DCAT) to create a class called a \"Linkset\" which is a Dataset used to publish links between other datasets. A Linkset will require certain metadata not typically found in dcat:Datasets, principally notes on the methodology used to form the links between separate datasets. While the Semantic Web allows for links between essentially any two things to be declared, LOC-I Linksets will be restricted to certain authorised link publishers.<\/span><\/p>\r\n\r\n<p><span>In addition to being an ontology, the LOC-I Ontology is also a Profile, as described by the emerging W3C Profiles Ontology (<\/span><a href=\"https:\/\/w3c.github.io\/dxwg\/profilesont\/\">https:\/\/w3c.github.io\/dxwg\/profilesont\/<\/a><span>) which profiles both GeoSPARQL and DCAT. This is mentioned for the WG might be interested to see what the implications of being a formalised ontology are in the future, unknown at present.<\/span><\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/loci"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "6"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_date_accepted": [
+            {
+                "value": "2018-10-25"
+            }
+        ],
+        "field_ontology_file": [
+            {
+                "target_id": "115",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "13"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "127"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "c1932b1e-1255-49e0-ba17-fe7e132bd94c"
+            }
+        ],
+        "vid": [
+            {
+                "value": "407"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1579669306"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Geo Admin Features Ontology"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "6"
+            }
+        ],
+        "created": [
+            {
+                "value": "1570511751"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1579669306"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "138",
+                "source": "\/node\/127",
+                "alias": "\/resource\/127",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>This ontology describes classes of geological and administrative Feature relevant to the duties of the Geological Survey of Queensland.<\/p>\r\n\r\n<p>As subclasses of the GeoSPARQL Ontology's <em>Feature<\/em> class, this ontology defines <em>Geological Feature<\/em> and <em>Administrative Feature<\/em>. Multiple subclasses of those two main classes are also defined.<\/p>\r\n\r\n<p>Most of the subclasses of <em>Geological Features<\/em> defined here are not disjoint with other subclasses of it in recognition of the fact that a real-world Feature may be classed in multiple ways. <em>Administrative Feature<\/em> subclasses, however, are all disjoint having been defined disjointly by people.<\/p>\r\n\r\n<p>References to and positioning of other <em>Features<\/em> defined elsewhere are made, such as placing the HY_Features model's <em>Catchment<\/em> and <em>CatchmentAggregate<\/em> classes as subclasses of this ontology's <em>Basin<\/em> class. As a result, the classes of object within the LocI project's Geofabric dataset can be related to objects classified using this ontology.<\/p>\r\n\r\n<p>Please see the code repo for the latest version of this ontology:<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/github.com\/geological-survey-of-queensland\/gsq-geoadminfeatures-ont\">https:\/\/github.com\/geological-survey-of-queensland\/gsq-geoadminfeatures-ont<\/a><\/li>\r\n<\/ul>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/geoadminfeatures"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "6"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "13"
+            }
+        ],
+        "field_date_accepted": [
+            {
+                "value": "2019-10-21"
+            }
+        ],
+        "field_ontology_file": [
+            {
+                "target_id": "103",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "13"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "1"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "28"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "5e11b52a-5021-4513-9a0b-47b83e9d5415"
+            }
+        ],
+        "vid": [
+            {
+                "value": "393"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1574230870"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "27"
+            }
+        ],
+        "revision_log": [
+            {
+                "value": "Fixed rdfs:seeAlso and rdfs:isDefinedBy objects - URIs not strings"
+            }
+        ],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "ASGS Ontology"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555304683"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1574230870"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "40",
+                "source": "\/node\/28",
+                "alias": "\/resource\/28",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>Ontology for the&nbsp;<a href=\"http:\/\/www.abs.gov.au\/websitedbs\/D3310114.nsf\/home\/Australian+Statistical+Geography+Standard+(ASGS)\">Australian Statistical Geography Standard (ASGS)<\/a>,&nbsp;a framework of statistical areas used by the Australian Bureau of Statistics (ABS) and other organisations to enable the publication of statistics that are comparable and spatially integrated.&nbsp;<\/p>\r\n\r\n<p>This ontology contains the definitions for the&nbsp;<strong>ABS Structures<\/strong>&nbsp;which are areas that the ABS designs specifically for outputting statistics<\/p>\r\n\r\n<ul>\r\n\t<li>Main structures: Mesh Block, Statistical Areas (Level 1 to Level 4), Greater Capital City Statistical Areas, State or Territory, Country classes,<\/li>\r\n\t<li>Indigenous structures: Indigenous location,&nbsp;Indigenous area, ,&nbsp;Indigenous region classes<\/li>\r\n\t<li>Urban structures: Urban Centre and Locality,&nbsp; Section of State Range, Section of State, and Significant Urban Area classes<\/li>\r\n<\/ul>\r\n\r\n<p>and&nbsp;<strong>Non ABS Structures<\/strong>&nbsp;which are not defined or maintained by the ABS but represent administrative areas for which the ABS is committed to providing a range of statistics. The classes defined here corresponds to ABS approximations of spatial areas or regions which are defined elsewhere<\/p>\r\n\r\n<ul>\r\n\t<li>Local Government Areas (LGAs)<\/li>\r\n\t<li>Postal Areas (POAs)<\/li>\r\n\t<li>State Suburbs (SSCs)<\/li>\r\n\t<li>Commonwealth Electoral Divisions (CEDs)<\/li>\r\n\t<li>State Electoral Divisions (SEDs)<\/li>\r\n\t<li>Australian Drainage Divisions (ADDs)<\/li>\r\n\t<li>Natural Resource Management Regions (NRMRs)<\/li>\r\n\t<li>Tourism Regions (TRs)<\/li>\r\n<\/ul>\r\n\r\n<p>The ASGS uses Mesh Blocks as a common building block for all structures. Mesh Blocks&nbsp;are small enough that they can accurately approximate the changing administrative areas maintained by other organisations, without changing themselves.<\/p>\r\n\r\n<p>The publication of the ASGS ontology is part of the Australian Bureau of Statistics contribution to a joint effort to publish authoritative, interconnected spatial products (Location Index project).<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/asgs"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "12"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "field_date_accepted": [
+            {
+                "value": "2018-11-27"
+            }
+        ],
+        "field_ontology_file": [
+            {
+                "target_id": "113",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "6"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "116"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "be5326f0-11d7-411c-bf63-438ca64457ee"
+            }
+        ],
+        "vid": [
+            {
+                "value": "311"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1570105671"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [
+            {
+                "value": "accepted by Nicholas Car (not involved in development)"
+            }
+        ],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Data types"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "27"
+            }
+        ],
+        "created": [
+            {
+                "value": "1560252714"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1570105671"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "127",
+                "source": "\/node\/116",
+                "alias": "\/resource\/116",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>A&nbsp;set&nbsp;of&nbsp;classes&nbsp;representing&nbsp;data-types.&nbsp;<\/p>\r\n\r\n<p>These&nbsp;may&nbsp;be&nbsp;used&nbsp;for&nbsp;observation&nbsp;results,&nbsp;or&nbsp;for&nbsp;other&nbsp;applications&nbsp;where&nbsp;scaled&nbsp;numbers,&nbsp;ranges,&nbsp;percents&nbsp;etc&nbsp;are&nbsp;required.&nbsp;<\/p>\r\n\r\n<p>Diagram available at&nbsp;<a href=\"https:\/\/github.com\/AGLDWG\/datatype-ont\/blob\/master\/images\/types.png\">https:\/\/github.com\/AGLDWG\/datatype-ont\/blob\/master\/images\/types.png<\/a><\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/datatype"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "27"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_date_accepted": [
+            {
+                "value": "2019-10-02"
+            }
+        ],
+        "field_ontology_file": [
+            {
+                "target_id": "102",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "7"
+            },
+            {
+                "target_id": "6"
+            },
+            {
+                "target_id": "8"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "49"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "29c2b88e-63ab-44d1-958d-a97989f2d61d"
+            }
+        ],
+        "vid": [
+            {
+                "value": "261"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1565666928"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Plot Ontology"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "created": [
+            {
+                "value": "1556179539"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1565666928"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "60",
+                "source": "\/node\/49",
+                "alias": "\/resource\/49",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>The Plot ontology embodies the OGC's <a href=\"https:\/\/www.opengeospatial.org\/standards\/om\">Observations and Measurements<\/a> conceptual model to capture plot-based ecological data.<\/p>\r\n\r\n<p>As of April, 2019, the Plot ontology&nbsp; is based on the W3C's <a href=\"https:\/\/www.w3.org\/TR\/vocab-ssn\/\">SSN ontology<\/a>. The Plot ontology describes <em>sites<\/em> as the <em>feature of interest<\/em> of all <em>observations<\/em> and <em>observation collections<\/em> with&nbsp;<em>bioregions<\/em><em>&nbsp;<\/em>as the <em>sites<\/em>' <em>ultimate feature of interest<\/em>. Observations can be grouped by&nbsp;<em>theme<\/em>&nbsp;as an&nbsp;<em>observation collection<\/em>.&nbsp;Observations are recorded with a <em>result<\/em>, obtained by some&nbsp;<em>procedure<\/em>&nbsp;at a&nbsp;<em>phenomenon time<\/em>.<\/p>\r\n\r\n<p>A set of controlled vocabularies encoded as SKOS are expected to describe the&nbsp;<em>observations<\/em>,&nbsp;<em>observation groups<\/em>,&nbsp;<em>procedures<\/em>,&nbsp;<em>results,&nbsp;<\/em>etc.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/plot"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "18"
+            }
+        ],
+        "field_date_accepted": [
+            {
+                "value": "2019-05-15"
+            }
+        ],
+        "field_ontology_file": [
+            {
+                "target_id": "17",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "18"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "6"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "20"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "48fe2462-9fdd-4dbf-8cb3-ad553e9c0dc2"
+            }
+        ],
+        "vid": [
+            {
+                "value": "260"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1565666903"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Place Names Ontology"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555303793"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1565666903"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "32",
+                "source": "\/node\/20",
+                "alias": "\/resource\/20",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>GA is a facilitator and provider of an Australia-wide platform for integration, access and visualisation of the Place Names (Gazetteer) data in Australia. GA works very closely with Australian States and Territory Jurisdictions on defining common data structure, classification and technical integration architectures. The latest classification was adopted in 2017 and is accessible through the following portal: <a href=\"http:\/\/placenames.fsdf.org.au\/\">http:\/\/placenames.fsdf.org.au\/<\/a><\/p>\r\n\r\n<p>In addition to traditional GIS data distribution techniques and formats, GA (with Armin\u2019s help) has undertaken an activity of development an information model (ontology) for the Place Names data and its transformation to the Linked Data Format. The Place Names data in Linked Data format will be available through the Place Names portal soon.<\/p>\r\n\r\n<p>GA would like to register the Place Names ontology at the AGLDWG repository and &nbsp;would like to apply for the following URI: <span lang=\"EN-US\"><a href=\"http:\/\/linked.data.gov.au\/def\/placenames\">linked.data.gov.au\/def\/placenames<\/a><\/span><\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/placenames"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "8"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_date_accepted": [
+            {
+                "value": "2018-08-06"
+            }
+        ],
+        "field_ontology_file": [
+            {
+                "target_id": "2",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "14"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "6"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "123"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "c5012458-c430-41b0-941d-e7a200bcf1ca"
+            }
+        ],
+        "vid": [
+            {
+                "value": "259"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1565666864"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Geofabric Ontology"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1565666795"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1565666864"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "134",
+                "source": "\/node\/123",
+                "alias": "\/resource\/123",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>A bare-bones ontology for the Australian Hydrological Geospatial Fabric.<\/p>\r\n\r\n<p>This small ontology characterises major parts of the <a href=\"http:\/\/www.bom.gov.au\/water\/geofabric\/\">Australian Hydrological Geospatial Fabric<\/a> for their delivery as <a href=\"https:\/\/www.w3.org\/wiki\/LinkedData\">Linked Data<\/a> via the <a href=\"http:\/\/linked.data.gov.au\/dataset\/geofabric\">Geofabric LDAPI<\/a>.<\/p>\r\n\r\n<p>This ontology accords with the <a href=\"http:\/\/locationindex.org\">Loc-I Project<\/a>'s requirements for the delivery of spatial <a href=\"https:\/\/www.w3.org\/standards\/semanticweb\/\">Semantic Web<\/a> objects.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/geofabric"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "27"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_date_accepted": [
+            {
+                "value": "2019-07-15"
+            }
+        ],
+        "field_ontology_file": [
+            {
+                "target_id": "97",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "6"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "25"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "dc634a17-a21a-491c-b943-8b97ad368f6a"
+            }
+        ],
+        "vid": [
+            {
+                "value": "257"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1565665560"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "ISO19160-1:2015 Address ontology - NZ Profile"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555304347"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1565665560"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "37",
+                "source": "\/node\/25",
+                "alias": "\/resource\/25",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>This ontology an OWL ontology version of the New Zealand Profile of ISO 19160-1:2015 Addressing.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/iso19160-1-address-nz-profile"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "6"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_date_accepted": [
+            {
+                "value": "2018-09-27"
+            }
+        ],
+        "field_ontology_file": [
+            {
+                "target_id": "7",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "1"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "24"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "097af9ef-70aa-48b6-8e5f-c9b81927566a"
+            }
+        ],
+        "vid": [
+            {
+                "value": "256"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1565665542"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "ISO19160-1:2015 Address ontology"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555304211"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1565665542"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "36",
+                "source": "\/node\/24",
+                "alias": "\/resource\/24",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>This ontology is a version of the ISO TC211, Group for Ontology Management (GOM)'s OWL ontology interpretation of the ISO19160-1:2015 \"Addressing -- Part 1: Conceptual model\" standard (see <a href=\"https:\/\/www.iso.org\/standard\/61710.html\">https:\/\/www.iso.org\/standard\/61710.html<\/a>) taken from that ontology's source code, published at <a href=\"https:\/\/github.com\/ISO-TC211\/GOM\/tree\/master\/isotc211_GOM_harmonizedOntology\/19160-1\/2015\">https:\/\/github.com\/ISO-TC211\/GOM\/tree\/master\/isotc211_GOM_harmonizedOntology\/19160-1\/2015<\/a>.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/iso19160-1-address"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "6"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_date_accepted": [
+            {
+                "value": "2019-09-27"
+            }
+        ],
+        "field_ontology_file": [
+            {
+                "target_id": "6",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "1"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "21"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "101f49b7-a475-48c5-9d11-b0dfb20d5a03"
+            }
+        ],
+        "vid": [
+            {
+                "value": "255"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1565665495"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "G-NAF Ontology"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555303886"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1565665495"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "33",
+                "source": "\/node\/21",
+                "alias": "\/resource\/21",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>The ontology for the G-NAF data model in RDF. This ontology is self-defined (it does not profile other specific ontologies, only other generic ontologies).<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/gnaf"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "6"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_date_accepted": [
+            {
+                "value": "2018-08-29"
+            }
+        ],
+        "field_ontology_file": [
+            {
+                "target_id": "3",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "17"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "13"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "23"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "69f7fd48-5a23-4af8-a649-de239bb88786"
+            }
+        ],
+        "vid": [
+            {
+                "value": "253"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1565664777"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataset Ontology"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555304103"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1565664777"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "35",
+                "source": "\/node\/23",
+                "alias": "\/resource\/23",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>The data.gov.au Dataset Ontology is an OWL ontology designed to describe the characteristics of datasets published on data.gov.au.<\/p>\r\n\r\n<p>This ontology is a legacy ontology that was created under the previous PID regime and thus also has the PID <a href=\"http:\/\/reference.data.gov.au\/def\/ont\/dataset\">reference.data.gov.au\/def\/ont\/dataset<\/a> allocated to it.<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/dataset"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "9"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "2"
+            }
+        ],
+        "field_date_accepted": [
+            {
+                "value": "2018-09-27"
+            }
+        ],
+        "field_ontology_file": [
+            {
+                "target_id": "5",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "2"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "6"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "122"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "0bdf3043-eb6e-4d99-b1c8-b422de316901"
+            }
+        ],
+        "vid": [
+            {
+                "value": "252"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1565664626"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "CRS Ontology"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1565664520"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1565664626"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "133",
+                "source": "\/node\/122",
+                "alias": "\/resource\/122",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>The Commonwealth Record Series Ontology.<\/p>\r\n\r\n<p>This ontology is an <a href=\"https:\/\/www.w3.org\/OWL\/\">OWL<\/a> interpretation of the Commonwealth Record Series (CRS) system's data model that is maintained by the <a href=\"http:\/\/naa.gov.au\">National Archives of Australia<\/a>.<\/p>\r\n\r\n<p>This ontology specialises classes and properties from the <a href=\"https:\/\/www.w3.org\/TR\/vocab-org\/\">Organization Ontology<\/a> and other well-known ontologies such as <a href=\"http:\/\/dublincore.org\/schemas\/rdfs\/\">Dublin Core<\/a> &amp; <a href=\"https:\/\/www.w3.org\/TR\/prov-o\/\">PROV<\/a> to describe CRS things in specific terms but also in relation to well-known generic terms.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/crs"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "25"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_date_accepted": [
+            {
+                "value": "2019-07-15"
+            }
+        ],
+        "field_ontology_file": [
+            {
+                "target_id": "96",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "15"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "6"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "111"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "d12a18fd-c246-41d2-bdbc-1e0f55395821"
+            }
+        ],
+        "vid": [
+            {
+                "value": "250"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1565664375"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Borehole Profile"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1556623688"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1565664375"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "122",
+                "source": "\/node\/111",
+                "alias": "\/resource\/111",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>The Geological Survey of Queensland's profile of several specifications to characterise a borehole. This profile contains alignments to specifications that it does not directly profile but is informed by, such as GeoSciML.<\/p>\r\n\r\n<p>The profile is presented online with all its parts at <a href=\"https:\/\/github.com\/geological-survey-of-queensland\/gsq-borehole-profile\">https:\/\/github.com\/geological-survey-of-queensland\/gsq-borehole-profile<\/a> and provisionally hosted for human-readability (HTML web page) at <a href=\"http:\/\/www.linked.data.gov.au\/def\/borehole\/\">http:\/\/www.linked.data.gov.au\/def\/borehole\/<\/a>.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/borehole"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "19"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_date_accepted": [
+            {
+                "value": "2019-05-15"
+            }
+        ],
+        "field_ontology_file": [
+            {
+                "target_id": "81",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "13"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "6"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "121"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "83bb6c71-360b-441d-8836-f1f667a45b0f"
+            }
+        ],
+        "vid": [
+            {
+                "value": "249"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1565664324"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "AGRIF Ontology"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1565664061"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1565664324"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "132",
+                "source": "\/node\/121",
+                "alias": "\/resource\/121",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>The Australian Government Records Interoperability Framework (AGRIF) ontology.<\/p>\r\n\r\n<p>The Australian Government Records Interoperability Framework (AGRIF, \u2018the Framework\u2019) is a system of related semantic ontologies that describe the structure, functions, and activities of the Australian Government, providing sufficient context for the effective use \u2013 including but not limited to management \u2013 of Australian Government information assets. It complies with the World Wide Web Consortium\u2019s Web Ontology Language (OWL2) Recommendation and makes reference to other Recommendations and existing domain ontologies for archival and preservation processes.<\/p>\r\n\r\n<p>This URI has been rolled over from the previous reference.data.gov.au namespace with the legacy PID still working too: <a href=\"http:\/\/reference.data.gov.au\/def\/ont\/agrif\">reference.data.gov.au\/def\/ont\/agrif<\/a>.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/agrif"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "11"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "9"
+            }
+        ],
+        "field_date_accepted": [
+            {
+                "value": "2018-07-15"
+            }
+        ],
+        "field_ontology_file": [
+            {
+                "target_id": "95",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "9"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "6"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "47"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "d538271a-524c-4b15-a5ef-e6e078e527d7"
+            }
+        ],
+        "vid": [
+            {
+                "value": "151"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1556851571"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [
+            {
+                "value": "In conjunction with the requester, this request has been marked invalid since other, more specialised, requests have been made in its place."
+            }
+        ],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Geological Survey of Queensland Ontology"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555308053"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1556851571"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "58",
+                "source": "\/node\/47",
+                "alias": "\/resource\/47",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p><span><span>This pattern in a general definitional&nbsp;resource pattern for the Geological Survey of Queensland. Although organisation-based path segments are not ideal, GSQ wishes to provision many definitional items (mainly vocabularies) under one namespace and thus needs a non-single-vocabulary-specific pattern. Some of the anticipated vocabularies are geology and Queensland specific, such as Qld mining permit types. Others are universal, such as lithology. GSQ expects some of the universal vocabularies to be deprecated for national\/international ones over time.<\/span><\/span><\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/gsq"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "19"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_date_accepted": [],
+        "field_ontology_file": [
+            {
+                "target_id": "13",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "13"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "9"
+            }
+        ],
+        "field_reviewer": [
+            {
+                "target_id": "1"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": "26"
+            }
+        ],
+        "uuid": [
+            {
+                "value": "ad9a2a3b-4b24-4a6a-ad6d-1aa261ddeef9"
+            }
+        ],
+        "vid": [
+            {
+                "value": "29"
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "ontology"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "1555304500"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": "1"
+            }
+        ],
+        "title": [
+            {
+                "value": "EUDM Profile of DCAT"
+            }
+        ],
+        "uid": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "created": [
+            {
+                "value": "1555304440"
+            }
+        ],
+        "changed": [
+            {
+                "value": "1555304500"
+            }
+        ],
+        "promote": [
+            {
+                "value": "1"
+            }
+        ],
+        "sticky": [
+            {
+                "value": "0"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_default": [
+            {
+                "value": "1"
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": "1"
+            }
+        ],
+        "path": [
+            {
+                "pid": "38",
+                "source": "\/node\/26",
+                "alias": "\/resource\/26",
+                "langcode": "en"
+            }
+        ],
+        "menu_link": [],
+        "body": [
+            {
+                "value": "<p>A \"profile\" is a new form of Linked Data definitional resource, the definition of which is being pursued in the W3C via its Dataset Exchange Working Group (DXWG) which four members of the AGLDWG are also members of. The definition of a profile, as it is developing,&nbsp; is captured in this Profile Guidance document: <a href=\"https:\/\/w3c.github.io\/dxwg\/profiles\/\">https:\/\/w3c.github.io\/dxwg\/profiles\/<\/a> which is a WG Editor's Draft about to be released as a Formal First Public Working Draft at which point the W3C will ask for formal submissions for it and I hope AGLDWG members supply submissions.<\/p>\r\n\r\n<p>Requesting this URI now, before the completion of the Profile Guidance work, is, I think, sensible given that whatever the outcome of the DXWG work, it won't radically alter what a profile is, in terms of an Internet resource identified by URI. Issuing now will also allow DXWG to play with a 'real' URI which will help profile definition work and testing.<\/p>\r\n",
+                "summary": "",
+                "format": "basic_html"
+            }
+        ],
+        "field_agldwg_identifier": [
+            {
+                "value": "\/def\/eudm"
+            }
+        ],
+        "field_contact_person": [
+            {
+                "target_id": "6"
+            }
+        ],
+        "field_creator": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_date_accepted": [
+            {
+                "value": "2018-09-27"
+            }
+        ],
+        "field_ontology_file": [
+            {
+                "target_id": "8",
+                "display": "1",
+                "description": ""
+            }
+        ],
+        "field_publisher": [
+            {
+                "target_id": "7"
+            }
+        ],
+        "field_registry_status": [
+            {
+                "target_id": "1"
+            }
+        ],
+        "field_reviewer": []
+    }
+]
