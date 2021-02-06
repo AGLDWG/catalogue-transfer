@@ -1,0 +1,29 @@
+#
+#   Run Durpal within Docker
+#
+
+# Drupal on Docker required two Docker containers: MySQL (or similar DB) and Drupal itself.
+
+# 1. create a MySQL container from DockerHub's MySQL image
+docker run -d --name mysql-1 -e MYSQL_ROOT_PASSWORD=drupal mysql:latest
+
+# 2. create a Dockerfile for our customisation of Drupal
+#
+#   TODO: configure a Dockerfile here with all our specific Drupal requirements
+#
+# during Drupal setup:
+    # as per https://vineetcic.medium.com/deploying-mysql-with-docker-94cf9b2689f7
+    # Site maintenance account
+        # username: admin
+        # password: ldiscool
+# Drupal modules
+https://www.drupal.org/project/field_group
+https://www.drupal.org/project/ctools
+https://www.drupal.org/project/token
+https://www.drupal.org/project/pathauto
+https://www.drupal.org/project/node_export
+
+
+# 3. create a Drupal container from DockerHub's Drupal image
+docker run --name drupal-1 --link mysql-1:mysql -p 8080:80 -e MYSQL_USER=root -e MYSQL_PASSWORD=drupal -d drupal
+
